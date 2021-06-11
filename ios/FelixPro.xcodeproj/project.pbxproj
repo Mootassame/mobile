@@ -8,16 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		00B0323063FE41A2AE2F061E /* Merriweather-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 998829C05B994824B505A542 /* Merriweather-LightItalic.ttf */; };
-		078D89062E944EB0A91B9D68 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFil// !$*UTF8*$!
-{
-	archiveVersion = 1;
-	classes = {
-	};
-	objectVersion = 46;
-	objects = {
-
-/* Begin PBXBuildFile section */
-		00B0323063FE41A2AE2F061E /* Merriweather-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 998829C05B994824B505A542 /* Merriweather-LightItalic.ttf */; };
 		078D89062E944EB0A91B9D68 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CAA21C8A5CF4DBDAC820A86 /* Raleway-Regular.ttf */; };
 		10FE0C9F485148D7824DDF36 /* Raleway-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC1EE4B1213A4F8C8F481173 /* Raleway-Italic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
@@ -28,7 +18,7 @@
 		286ED49BA694491CBCD3A019 /* Merriweather-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93C96AF07F08439EAE5400FA /* Merriweather-Bold.ttf */; };
 		2E7BE81B3C6B4808BF2B95D9 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEE200C161FB42F1A876024F /* Roboto-ThinItalic.ttf */; };
 		2F1C243D80A641F3A0E5FB71 /* Raleway-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D488908990804328AF33A5BC /* Raleway-ExtraBoldItalic.ttf */; };
-		2F98A25DB967232E7C495E10 /* libPods-MigRights.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 92288FD63888D45CE4244489 /* libPods-MigRights.a */; };
+		2F98A25DB967232E7C495E10 /* libPods-FelixPro.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 92288FD63888D45CE4244489 /* libPods-FelixPro.a */; };
 		3F717B18D7E740CDA074C5FF /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 261A2B6851614DD6AC67116A /* Roboto-Regular.ttf */; };
 		40422E50FD3A48DE88365FE6 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDF35897D6CF4021A1A3DE7E /* Roboto-BlackItalic.ttf */; };
 		409274F3172C4A15B9F18141 /* Merriweather-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70C3334DDA934D84A8E09201 /* Merriweather-Italic.ttf */; };
@@ -67,11 +57,11 @@
 		02C2E05EF62646C2B6C1116C /* Raleway-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-LightItalic.ttf"; path = "../app/assets/fonts/Raleway-LightItalic.ttf"; sourceTree = "<group>"; };
 		097F32F50AB84CC09FC8B5F1 /* Raleway-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-SemiBoldItalic.ttf"; path = "../app/assets/fonts/Raleway-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		0EBC179D2E55451BB77B8D8F /* Merriweather-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-Light.ttf"; path = "../app/assets/fonts/Merriweather-Light.ttf"; sourceTree = "<group>"; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MigRights/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MigRights/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MigRights/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MigRights/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MigRights/main.m; sourceTree = "<group>"; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FelixPro/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = FelixPro/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = FelixPro/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = FelixPro/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = FelixPro/main.m; sourceTree = "<group>"; };
 		15CDF3C977404123B048BAD9 /* Raleway-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-ExtraBold.ttf"; path = "../app/assets/fonts/Raleway-ExtraBold.ttf"; sourceTree = "<group>"; };
 		261A2B6851614DD6AC67116A /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../app/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		29026A67D21E412E839E82B5 /* Raleway-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-ExtraLightItalic.ttf"; path = "../app/assets/fonts/Raleway-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
@@ -84,7 +74,7 @@
 		4CAA21C8A5CF4DBDAC820A86 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-Regular.ttf"; path = "../app/assets/fonts/Raleway-Regular.ttf"; sourceTree = "<group>"; };
 		52C5630771FB4E39B6619020 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		55CCF715EACA4B38922CD92C /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../app/assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
-		58A1A20F580E4609C9548E69 /* Pods-MigRights.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MigRights.release.xcconfig"; path = "Target Support Files/Pods-MigRights/Pods-MigRights.release.xcconfig"; sourceTree = "<group>"; };
+		58A1A20F580E4609C9548E69 /* Pods-FelixPro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FelixPro.release.xcconfig"; path = "Target Support Files/Pods-FelixPro/Pods-FelixPro.release.xcconfig"; sourceTree = "<group>"; };
 		5C82A102E2DE49EFBD73BFCF /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		5CFC5C7ACD214F99AF7FC082 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-SemiBold.ttf"; path = "../app/assets/fonts/Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
 		607A9714140B4603A46B1475 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
@@ -101,7 +91,7 @@
 		86B558AE43AE4DEEA40FCF30 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		8DE00213ABE84732A7284D15 /* Merriweather-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-Regular.ttf"; path = "../app/assets/fonts/Merriweather-Regular.ttf"; sourceTree = "<group>"; };
 		8ECA16CD47FF4080BD741454 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		92288FD63888D45CE4244489 /* libPods-MigRights.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MigRights.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		92288FD63888D45CE4244489 /* libPods-FelixPro.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FelixPro.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93C96AF07F08439EAE5400FA /* Merriweather-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-Bold.ttf"; path = "../app/assets/fonts/Merriweather-Bold.ttf"; sourceTree = "<group>"; };
 		998829C05B994824B505A542 /* Merriweather-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-LightItalic.ttf"; path = "../app/assets/fonts/Merriweather-LightItalic.ttf"; sourceTree = "<group>"; };
 		9A61BCBACFE549868AB35585 /* Merriweather-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-BoldItalic.ttf"; path = "../app/assets/fonts/Merriweather-BoldItalic.ttf"; sourceTree = "<group>"; };
@@ -112,11 +102,11 @@
 		B289904A911C43ABB7D285FC /* Raleway-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-Light.ttf"; path = "../app/assets/fonts/Raleway-Light.ttf"; sourceTree = "<group>"; };
 		B72C9336B52140A88881F1B3 /* Raleway-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-Thin.ttf"; path = "../app/assets/fonts/Raleway-Thin.ttf"; sourceTree = "<group>"; };
 		BB222B658D4D41BDAE84DB4F /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		BBCDBE3B24D81094006049E9 /* MigRights.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MigRights.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBCDBE3B24D81094006049E9 /* FelixPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FelixPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBCDBE3C24D8143B006049E9 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		BC815631DAAB411D976BACA6 /* Raleway-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-ThinItalic.ttf"; path = "../app/assets/fonts/Raleway-ThinItalic.ttf"; sourceTree = "<group>"; };
 		C6D35FA4684A4AA59BBBB669 /* Merriweather-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Merriweather-Black.ttf"; path = "../app/assets/fonts/Merriweather-Black.ttf"; sourceTree = "<group>"; };
-		C8195CAC4540F76F795A9208 /* Pods-MigRights.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MigRights.debug.xcconfig"; path = "Target Support Files/Pods-MigRights/Pods-MigRights.debug.xcconfig"; sourceTree = "<group>"; };
+		C8195CAC4540F76F795A9208 /* Pods-FelixPro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FelixPro.debug.xcconfig"; path = "Target Support Files/Pods-FelixPro/Pods-FelixPro.debug.xcconfig"; sourceTree = "<group>"; };
 		CBF5224550814D2186001A8D /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		D0F38B194F054CE2994420BB /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../app/assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
 		D380B5C4685248FE94EDE535 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
@@ -136,14 +126,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F98A25DB967232E7C495E10 /* libPods-MigRights.a in Frameworks */,
+				2F98A25DB967232E7C495E10 /* libPods-FelixPro.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		13B07FAE1A68108700A75B9A /* MigRights */ = {
+		13B07FAE1A68108700A75B9A /* FelixPro */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -154,14 +144,14 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = MigRights;
+			name = FelixPro;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				92288FD63888D45CE4244489 /* libPods-MigRights.a */,
+				92288FD63888D45CE4244489 /* libPods-FelixPro.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -169,11 +159,11 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* MigRights */,
+				13B07FAE1A68108700A75B9A /* FelixPro */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				A2629ED4C628F5374621D5D6 /* Pods */,
 				9762FDBB7D5A4D92B38D7106 /* Resources */,
-				BBCDBE3B24D81094006049E9 /* MigRights.app */,
+				BBCDBE3B24D81094006049E9 /* FelixPro.app */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -244,8 +234,8 @@
 		A2629ED4C628F5374621D5D6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C8195CAC4540F76F795A9208 /* Pods-MigRights.debug.xcconfig */,
-				58A1A20F580E4609C9548E69 /* Pods-MigRights.release.xcconfig */,
+				C8195CAC4540F76F795A9208 /* Pods-FelixPro.debug.xcconfig */,
+				58A1A20F580E4609C9548E69 /* Pods-FelixPro.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -253,9 +243,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13B07F861A680F5B00A75B9A /* MigRights */ = {
+		13B07F861A680F5B00A75B9A /* FelixPro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MigRights" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FelixPro" */;
 			buildPhases = (
 				A61DD169A44D460A52CF8609 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -269,9 +259,9 @@
 			);
 			dependencies = (
 			);
-			name = MigRights;
-			productName = MigRights;
-			productReference = BBCDBE3B24D81094006049E9 /* MigRights.app */;
+			name = FelixPro;
+			productName = FelixPro;
+			productReference = BBCDBE3B24D81094006049E9 /* FelixPro.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -288,7 +278,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MigRights" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FelixPro" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -301,7 +291,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* MigRights */,
+				13B07F861A680F5B00A75B9A /* FelixPro */,
 			);
 		};
 /* End PBXProject section */
@@ -377,7 +367,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MigRights/Pods-MigRights-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-FelixPro/Pods-FelixPro-resources.sh",
 				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
@@ -420,7 +410,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MigRights/Pods-MigRights-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FelixPro/Pods-FelixPro-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A61DD169A44D460A52CF8609 /* [CP] Check Pods Manifest.lock */ = {
@@ -438,7 +428,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MigRights-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FelixPro-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -481,14 +471,14 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C8195CAC4540F76F795A9208 /* Pods-MigRights.debug.xcconfig */;
+			baseConfigurationReference = C8195CAC4540F76F795A9208 /* Pods-FelixPro.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3C2ZJ87Z72;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = MigRights/Info.plist;
+				INFOPLIST_FILE = FelixPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.0.8;
 				OTHER_LDFLAGS = (
@@ -497,7 +487,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.huynh.felixpro;
-				PRODUCT_NAME = MigRights;
+				PRODUCT_NAME = FelixPro;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -507,13 +497,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 58A1A20F580E4609C9548E69 /* Pods-MigRights.release.xcconfig */;
+			baseConfigurationReference = 58A1A20F580E4609C9548E69 /* Pods-FelixPro.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3C2ZJ87Z72;
-				INFOPLIST_FILE = MigRights/Info.plist;
+				INFOPLIST_FILE = FelixPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.0.8;
 				OTHER_LDFLAGS = (
@@ -522,7 +512,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.huynh.felixpro;
-				PRODUCT_NAME = MigRights;
+				PRODUCT_NAME = FelixPro;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -645,7 +635,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MigRights" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FelixPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -654,7 +644,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MigRights" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FelixPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

@@ -5,7 +5,7 @@ import {
   TouchableOpacity,
   ActivityIndicator,
 } from "react-native";
-import { BaseStyle, BaseColor, Images, useTheme, authAxios } from "@config";
+import { BaseStyle, BaseColor, Images, useTheme,authAxios } from "@config";
 import Swiper from "react-native-swiper";
 import { Image, Header, SafeAreaView, Icon, Text } from "@components";
 import styles from "./styles";
@@ -25,7 +25,7 @@ export default function PreviewImage({ route, navigation }) {
   useEffect(() => {
     setLoading(true);
 
-    authAxios.get(`tenant/60bf564c30d647001d320329/informations/${imageId}`)
+    authAxios.get(`tenant/60a6837c57b965001ed6ec2e/informations/${imageId}`)
       .then((json) => {
         setImages(json.data.images);
 

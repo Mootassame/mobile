@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="http://schemas.android.com/tools" xmlns:ns2="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <attr name="appBarLayoutStyle"/>
     <attr format="reference" name="badgeStyle"/>
     <attr format="reference" name="bottomAppBarStyle"/>
@@ -53,29 +53,6 @@
     <attr format="reference" name="materialThemeOverlay"/>
     <attr format="dimension" name="minTouchTargetSize"/>
     <attr format="reference" name="navigationViewStyle"/>
-    <attr format="reference|color" name="picture.ac_preview.bottom.bg"/>
-    <attr format="reference|color" name="picture.ac_preview.complete.textColor"/>
-    <attr format="reference|color" name="picture.ac_preview.title.bg"/>
-    <attr format="reference|color" name="picture.ac_preview.title.textColor"/>
-    <attr format="reference" name="picture.arrow_down.icon"/>
-    <attr format="reference" name="picture.arrow_up.icon"/>
-    <attr format="reference|color" name="picture.bottom.bg"/>
-    <attr format="reference" name="picture.checked.style"/>
-    <attr format="reference|color" name="picture.complete.textColor"/>
-    <attr format="reference|color" name="picture.crop.status.color"/>
-    <attr format="reference|color" name="picture.crop.title.color"/>
-    <attr format="reference|color" name="picture.crop.toolbar.bg"/>
-    <attr format="reference" name="picture.folder_checked_dot"/>
-    <attr format="reference" name="picture.leftBack.icon"/>
-    <attr format="reference" name="picture.num.style"/>
-    <attr format="reference" name="picture.preview.leftBack.icon"/>
-    <attr format="reference|color" name="picture.preview.textColor"/>
-    <attr format="reference|color" name="picture.right.textColor"/>
-    <attr format="reference|color" name="picture.status.color"/>
-    <attr format="boolean" name="picture.statusFontColor"/>
-    <attr format="boolean" name="picture.style.checkNumMode"/>
-    <attr format="boolean" name="picture.style.numComplete"/>
-    <attr format="reference|color" name="picture.title.textColor"/>
     <attr format="reference" name="popupMenuBackground"/>
     <attr format="reference" name="recyclerViewStyle"/>
     <attr format="color" name="rippleColor"/>
@@ -129,10 +106,6 @@
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <color name="browser_actions_bg_grey">#F5F5F5</color>
-    <color name="browser_actions_divider_color">#1E000000</color>
-    <color name="browser_actions_text_color">#DE000000</color>
-    <color name="browser_actions_title_color">#646464</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">#FF424242</color>
@@ -195,6 +168,11 @@
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
+    <color name="mapbox_blue">#1E8CAB</color>
+    <color name="mapbox_gray">#7D7F80</color>
+    <color name="mapbox_gray_dark">#5F5F5F</color>
+    <color name="mapbox_location_layer_blue">#4A90E2</color>
+    <color name="mapbox_location_layer_gray">#A1B0C0</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -217,42 +195,6 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#DE000000</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
-    <color name="picture_color_20">#20000000</color>
-    <color name="picture_color_20c064">#20c064</color>
-    <color name="picture_color_394a3e">#394a3e</color>
-    <color name="picture_color_4d">#4d4d4d</color>
-    <color name="picture_color_4e4d4e">#4e4d4e</color>
-    <color name="picture_color_529BeA">#529BeA</color>
-    <color name="picture_color_53575e">#53575e</color>
-    <color name="picture_color_70">#70000000</color>
-    <color name="picture_color_80">#80000000</color>
-    <color name="picture_color_9b">#9b9b9b</color>
-    <color name="picture_color_a83">#a8333333</color>
-    <color name="picture_color_aab2bd">#AAB2BD</color>
-    <color name="picture_color_ba3">#b0567ba3</color>
-    <color name="picture_color_bfe85d">#BF96E85D</color>
-    <color name="picture_color_black">#000000</color>
-    <color name="picture_color_blue">#7D7DFF</color>
-    <color name="picture_color_e">#EEEEEE</color>
-    <color name="picture_color_e0ff6100">#E0FF6100</color>
-    <color name="picture_color_eb">#ebebeb</color>
-    <color name="picture_color_ec">#ececec</color>
-    <color name="picture_color_f0">#F0F0F0</color>
-    <color name="picture_color_f2">#F2F2F2</color>
-    <color name="picture_color_fa">#FAFAFA</color>
-    <color name="picture_color_fa632d">#FA632D</color>
-    <color name="picture_color_ff572e">#ff572e</color>
-    <color name="picture_color_ffd042">#FFFFD042</color>
-    <color name="picture_color_ffe85d">#FF96E85D</color>
-    <color name="picture_color_grey">#393a3e</color>
-    <color name="picture_color_grey_3e">#dd393a3e</color>
-    <color name="picture_color_half_grey">#a0393a3e</color>
-    <color name="picture_color_half_white">#99FFFFFF</color>
-    <color name="picture_color_light_grey">#999999</color>
-    <color name="picture_color_transparent">#00000000</color>
-    <color name="picture_color_transparent_e0db">#E0DBDBDB</color>
-    <color name="picture_color_transparent_white">#F0FFFFFF</color>
-    <color name="picture_color_white">#FFFFFF</color>
     <color name="primary_dark">#000000</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -274,32 +216,6 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
-    <color name="ucrop_color_active_aspect_ratio">@color/ucrop_color_blaze_orange</color>
-    <color name="ucrop_color_active_controls_color">@color/ucrop_color_blaze_orange</color>
-    <color name="ucrop_color_ba3">#b0567ba3</color>
-    <color name="ucrop_color_black">#000</color>
-    <color name="ucrop_color_blaze_orange">#FF6300</color>
-    <color name="ucrop_color_crop_background">@color/ucrop_color_black</color>
-    <color name="ucrop_color_default_crop_frame">#ffffff</color>
-    <color name="ucrop_color_default_crop_grid">#80ffffff</color>
-    <color name="ucrop_color_default_dimmed">#8c000000</color>
-    <color name="ucrop_color_default_logo">#4f212121</color>
-    <color name="ucrop_color_ebony_clay">#20242F</color>
-    <color name="ucrop_color_ec">#ececec</color>
-    <color name="ucrop_color_heather">#B3BECE</color>
-    <color name="ucrop_color_inactive_aspect_ratio">@color/ucrop_color_ebony_clay</color>
-    <color name="ucrop_color_inactive_controls_color">@color/ucrop_color_heather</color>
-    <color name="ucrop_color_progress_wheel_line">@color/ucrop_color_ebony_clay</color>
-    <color name="ucrop_color_statusbar">#f5f5f5</color>
-    <color name="ucrop_color_toolbar">@color/ucrop_color_white</color>
-    <color name="ucrop_color_toolbar_widget">@color/ucrop_color_black</color>
-    <color name="ucrop_color_white">#FFF</color>
-    <color name="ucrop_color_widget">@color/ucrop_color_black</color>
-    <color name="ucrop_color_widget_active">@color/ucrop_color_white</color>
-    <color name="ucrop_color_widget_background">@color/ucrop_color_ebony_clay</color>
-    <color name="ucrop_color_widget_rotate_angle">@color/ucrop_color_ebony_clay</color>
-    <color name="ucrop_color_widget_rotate_mid_line">@color/ucrop_color_blaze_orange</color>
-    <color name="ucrop_color_widget_text">@color/ucrop_color_blaze_orange</color>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -380,8 +296,6 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="action_bar_size">16dp</dimen>
     <dimen name="appcompat_dialog_background_inset">16dp</dimen>
-    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
-    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -454,6 +368,26 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="mapbox_angular_velocity_multiplier">1.3dp</dimen>
+    <dimen name="mapbox_defaultMultiTapMovementThreshold">5dp</dimen>
+    <dimen name="mapbox_defaultScaleSpanSinceStartThreshold">7dp</dimen>
+    <dimen name="mapbox_defaultShovePixelThreshold">16dp</dimen>
+    <dimen name="mapbox_density_constant">0.29dp</dimen>
+    <dimen name="mapbox_eight_dp">8dp</dimen>
+    <dimen name="mapbox_four_dp">4dp</dimen>
+    <dimen name="mapbox_infowindow_margin">8dp</dimen>
+    <dimen name="mapbox_infowindow_tipview_width">8dp</dimen>
+    <dimen name="mapbox_internalMinSpan23">10mm</dimen>
+    <dimen name="mapbox_internalMinSpan24">6mm</dimen>
+    <dimen name="mapbox_locationComponentTrackingInitialMoveThreshold">25dp</dimen>
+    <dimen name="mapbox_locationComponentTrackingMultiFingerMoveThreshold">400dp</dimen>
+    <dimen name="mapbox_minimum_angled_scale_speed">0.9dp</dimen>
+    <dimen name="mapbox_minimum_angular_velocity">0.10dp</dimen>
+    <dimen name="mapbox_minimum_scale_span_when_rotating">75dp</dimen>
+    <dimen name="mapbox_minimum_scale_speed">0.6dp</dimen>
+    <dimen name="mapbox_minimum_scale_velocity">225dp</dimen>
+    <dimen name="mapbox_my_locationview_outer_circle">18dp</dimen>
+    <dimen name="mapbox_ninety_two_dp">92dp</dimen>
     <item format="float" name="material_emphasis_disabled" type="dimen">0.38</item>
     <item format="float" name="material_emphasis_high_type" type="dimen">0.87</item>
     <item format="float" name="material_emphasis_medium" type="dimen">0.6</item>
@@ -628,28 +562,6 @@
     <dimen name="tooltip_vertical_padding">6.5dp</dimen>
     <dimen name="tooltip_y_offset_non_touch">0dp</dimen>
     <dimen name="tooltip_y_offset_touch">16dp</dimen>
-    <dimen name="ucrop_default_crop_frame_stoke_width">1dp</dimen>
-    <dimen name="ucrop_default_crop_grid_stoke_width">1dp</dimen>
-    <dimen name="ucrop_default_crop_logo_size">200dp</dimen>
-    <dimen name="ucrop_default_crop_rect_corner_touch_area_line_length">10dp</dimen>
-    <dimen name="ucrop_default_crop_rect_corner_touch_threshold">30dp</dimen>
-    <dimen name="ucrop_default_crop_rect_min_size">100dp</dimen>
-    <dimen name="ucrop_height_crop_aspect_ratio_text">40dp</dimen>
-    <dimen name="ucrop_height_divider_shadow">3dp</dimen>
-    <dimen name="ucrop_height_horizontal_wheel_progress_line">20dp</dimen>
-    <dimen name="ucrop_height_wrapper_controls">64dp</dimen>
-    <dimen name="ucrop_height_wrapper_states">72dp</dimen>
-    <dimen name="ucrop_margin_horizontal_wheel_progress_line">10dp</dimen>
-    <dimen name="ucrop_margin_top_controls_text">4dp</dimen>
-    <dimen name="ucrop_margin_top_widget_text">10dp</dimen>
-    <dimen name="ucrop_padding_crop_frame">16dp</dimen>
-    <dimen name="ucrop_progress_size">30dp</dimen>
-    <dimen name="ucrop_size_dot_scale_text_view">8dp</dimen>
-    <dimen name="ucrop_size_wrapper_rotate_button">50dp</dimen>
-    <dimen name="ucrop_text_size_controls_text">11sp</dimen>
-    <dimen name="ucrop_text_size_widget_text">13sp</dimen>
-    <dimen name="ucrop_width_horizontal_wheel_progress_line">2dp</dimen>
-    <dimen name="ucrop_width_middle_wheel_progress_line">4dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="accessibility_action_clickable_span" type="id"/>
@@ -703,11 +615,9 @@
     <item name="ghost_view_holder" type="id"/>
     <item name="glide_custom_view_target_tag" type="id"/>
     <item name="home" type="id"/>
-    <item name="id_recycler" ns1:ignore="ResourceName" type="id"/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="line1" type="id"/>
     <item name="line3" type="id"/>
-    <item name="lottie_layer_name" type="id"/>
     <item name="mtrl_card_checked_layer_id" type="id"/>
     <item name="mtrl_child_content_container" type="id"/>
     <item name="mtrl_internal_children_alpha_tag" type="id"/>
@@ -740,10 +650,7 @@
     <item name="transition_scene_layoutid_cache" type="id"/>
     <item name="transition_transform" type="id"/>
     <item name="up" type="id"/>
-    <item name="view_count_tag" type="id"/>
-    <item name="view_index_tag" type="id"/>
     <item name="view_offset_helper" type="id"/>
-    <item name="view_tag" type="id"/>
     <item name="view_tag_instance_handle" type="id"/>
     <item name="view_tag_native_id" type="id"/>
     <item name="visible_removing_fragment_view_tag" type="id"/>
@@ -771,11 +678,12 @@
     <integer name="react_native_inspector_proxy_port">8081</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <integer name="ucrop_progress_loading_anim_time">1500</integer>
     <plurals description="Plural form content description for number of new notifications [CHAR_LIMIT=NONE]" name="mtrl_badge_content_description">
-    <item quantity="one"><ns2:g id="count">%d</ns2:g> new notification</item>
-    <item quantity="other"><ns2:g id="count">%d</ns2:g> new notifications</item>
+    <item quantity="one"><ns1:g id="count">%d</ns1:g> new notification</item>
+    <item quantity="other"><ns1:g id="count">%d</ns1:g> new notifications</item>
   </plurals>
+    <string name="API_URL" translatable="false">"http://192.168.1.16:8080/api"</string>
+    <string name="REQUEST_TIMOUT" translatable="false">"180000"</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -801,12 +709,10 @@
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with <ns2:g example="Mail" id="application_name">%s</ns2:g></string>
+    <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="alert_description" translatable="false">Alert</string>
-    <string name="ampm_description">Select AM/PM</string>
-    <string name="androidx_camera_default_config_provider"/>
-    <string name="app_name">MigRights</string>
+    <string name="app_name">FelixPro</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="button_description" translatable="false">Button</string>
@@ -845,46 +751,62 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="combobox_description" translatable="false">Combo Box</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
-    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
     <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
-    <string name="common_google_play_services_install_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
     <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <string name="common_google_play_services_unknown_issue"><ns2:g id="app_name">%1$s</ns2:g> is having trouble with Google Play services. Please try again.</string>
-    <string name="common_google_play_services_unsupported_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
     <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
-    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
     <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
-    <string name="common_google_play_services_updating_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
     <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="date_description">Select Date</string>
-    <string name="day_description">Select Day</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="hour_description">Select Hour</string>
-    <string name="hour_tag">Hour :</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
     <string name="image_description" translatable="false">Image</string>
     <string name="imagebutton_description" translatable="false">Button, Image</string>
     <string name="link_description" translatable="false">Link</string>
+    <string name="mapbox_attributionErrorNoBrowser">No web browser installed on device, can\'t open web page.</string>
+    <string name="mapbox_attributionTelemetryMessage">You are helping to make OpenStreetMap and Mapbox maps better by contributing anonymous usage data.</string>
+    <string name="mapbox_attributionTelemetryNegative">Disagree</string>
+    <string name="mapbox_attributionTelemetryNeutral">More info</string>
+    <string name="mapbox_attributionTelemetryPositive">Agree</string>
+    <string name="mapbox_attributionTelemetryTitle">Make Mapbox Maps Better</string>
+    <string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string>
+    <string name="mapbox_attributionsIconContentDescription">Attribution icon. Activate to show attribution dialog.</string>
+    <string name="mapbox_compassContentDescription">Map compass. Activate to reset the map rotation to North.</string>
+    <string name="mapbox_mapActionDescription">Showing a Map created with Mapbox. Scroll by dragging two fingers. Zoom by pinching two fingers.</string>
+    <string name="mapbox_myLocationViewContentDescription">Location View. This shows your location on the map.</string>
+    <string name="mapbox_offline_error_region_definition_invalid">Provided OfflineRegionDefinition doesn\'t fit the world bounds: %s</string>
+    <string name="mapbox_style_dark" translatable="false">mapbox://styles/mapbox/dark-v10</string>
+    <string name="mapbox_style_light" translatable="false">mapbox://styles/mapbox/light-v10</string>
+    <string name="mapbox_style_mapbox_streets" translatable="false">mapbox://styles/mapbox/streets-v11</string>
+    <string name="mapbox_style_outdoors" translatable="false">mapbox://styles/mapbox/outdoors-v11</string>
+    <string name="mapbox_style_satellite" translatable="false">mapbox://styles/mapbox/satellite-v9</string>
+    <string name="mapbox_style_satellite_streets" translatable="false">mapbox://styles/mapbox/satellite-streets-v11</string>
+    <string name="mapbox_style_traffic_day" translatable="false">mapbox://styles/mapbox/traffic-day-v2</string>
+    <string name="mapbox_style_traffic_night" translatable="false">mapbox://styles/mapbox/traffic-night-v2</string>
+    <string name="mapbox_telemetryImproveMap">Improve This Map</string>
+    <string name="mapbox_telemetryLink" translatable="false">https://www.mapbox.com/telemetry/</string>
+    <string name="mapbox_telemetrySettings">Telemetry Settings</string>
     <string name="menu_description" translatable="false">Menu</string>
     <string name="menubar_description" translatable="false">Menu Bar</string>
     <string name="menuitem_description" translatable="false">Menu Item</string>
-    <string name="minutes_description">Select Minutes</string>
-    <string name="minutes_tag">Minutes </string>
-    <string name="month_description">Select Month</string>
     <string description="Content description for new notification (no number count) [CHAR_LIMIT=NONE]" name="mtrl_badge_numberless_content_description">New notification</string>
     <string description="Content description for a close icon that lets the user remove content from the screen" name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_suffix" translatable="false"><ns2:g example="999" id="maximum number">%1$d</ns2:g><ns2:g example="+" id="suffix">%2$s</ns2:g></string>
+    <string name="mtrl_exceed_max_badge_number_suffix" translatable="false"><ns1:g example="999" id="maximum number">%1$d</ns1:g><ns1:g example="+" id="suffix">%2$s</ns1:g></string>
     <string description="a11y string to indicate this button moves the calendar to the next month [CHAR_LIMIT=NONE]" name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string description="a11y string to indicate this button moves the calendar to the previous month [CHAR_LIMIT=NONE]" name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string description="a11y string read on selection change to indicate the new selection [CHAR_LIMIT=NONE]" name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
@@ -916,87 +838,17 @@
     <string description="a11y string to indicate this button switches the user to choosing a day [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string description="a11y string to indicate this button changes the input mode to a text field [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string description="a11y string to indicate this button switches the user to choosing a year [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
-    <string name="overlay">Date Picker Overlay</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="picture_all_audio">所有音频</string>
-    <string name="picture_audio">获取系统录音权限被拒绝</string>
-    <string name="picture_audio_empty">你可以使用系统录音录制音频</string>
-    <string name="picture_audio_error">音频已损坏</string>
-    <string name="picture_camera">获取系统相机权限被拒绝</string>
-    <string name="picture_camera_roll">相机胶卷</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
-    <string name="picture_cancel">取消</string>
-    <string name="picture_choose_limit_seconds">只能选择 %1$ds 至 %2$ds内的视频</string>
-    <string name="picture_choose_max_seconds">最大只能选择 %1$ds 以内的视频</string>
-    <string name="picture_choose_min_seconds">不能选择低于 %1$ds 内的视频</string>
-    <string name="picture_completed">已完成</string>
-    <string name="picture_confirm">确定</string>
-    <string name="picture_data_exception">获取相册数据异常...</string>
-    <string name="picture_data_null">这里空空如也…</string>
-    <string name="picture_done">完 成</string>
-    <string name="picture_done_front_num">%1$d/%2$d 完成</string>
-    <string name="picture_empty">你可以使用相机拍摄照片或视频</string>
-    <string name="picture_empty_audio_title">无音频文件\n</string>
-    <string name="picture_empty_title">无视频或照片\n</string>
-    <string name="picture_error">图片已损坏</string>
-    <string name="picture_gif_tag">动图</string>
-    <string name="picture_go_setting">去设置</string>
-    <string name="picture_jurisdiction">读取内存卡权限被拒绝</string>
-    <string name="picture_know">我知道了</string>
-    <string name="picture_long_chart">长图</string>
-    <string name="picture_message_audio_max_num">你最多只能选择%1$s个音频</string>
-    <string name="picture_message_max_num">你最多只能选择%1$s张照片</string>
-    <string name="picture_message_video_max_num">你最多只能选择%1$s个视频</string>
-    <string name="picture_min_img_num">图片最低选择不能少于%1$s张</string>
-    <string name="picture_min_video_num">视频最低选择不能少于%1$s个</string>
-    <string name="picture_not_crop_data">无可用裁剪数据</string>
-    <string name="picture_original_image">原图</string>
-    <string name="picture_pause_audio">暂停</string>
-    <string name="picture_photo_camera">单击拍照，长按摄像</string>
-    <string name="picture_photo_pictures">单击拍照</string>
-    <string name="picture_photo_recording">长按摄像</string>
-    <string name="picture_photograph">拍照</string>
-    <string name="picture_play_audio">播放</string>
-    <string name="picture_please">请稍候...</string>
-    <string name="picture_please_select">请选择</string>
-    <string name="picture_preview">预览</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
-    <string name="picture_preview_num">预览(%1$d)</string>
-    <string name="picture_prompt">提示</string>
-    <string name="picture_prompt_content">是否保存图片至手机？</string>
-    <string name="picture_quit_audio">退出</string>
-    <string name="picture_record_video">录视频</string>
-    <string name="picture_recording_time_is_short">录制时间过短</string>
-    <string name="picture_rule">不能同时选择图片或视频</string>
-    <string name="picture_save_error">图片保存失败</string>
-    <string name="picture_save_success">图片保存成功至</string>
-    <string name="picture_select">选择</string>
-    <string name="picture_send">完成</string>
-    <string name="picture_send_num">完成(%1$d/%2$d)</string>
-    <string name="picture_stop_audio">停止</string>
-    <string name="picture_take_picture">拍摄</string>
-    <string name="picture_tape">录音</string>
-    <string name="picture_video_error">视频已损坏</string>
-    <string name="picture_video_toast">视频不可预览</string>
-    <string name="picture_warning">暂无媒体文件！</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>
     <string name="search_description" translatable="false">Search Field</string>
     <string name="search_menu_title">Search</string>
-    <string name="selected_ampm_description">Selected AM/PM</string>
-    <string name="selected_date_description">Selected Date</string>
-    <string name="selected_day_description">Selected Day</string>
-    <string name="selected_hour_description">Selected Hour</string>
-    <string name="selected_minutes_description">Selected Minutes</string>
-    <string name="selected_month_description">Selected Month</string>
-    <string name="selected_value_description">Value is</string>
-    <string name="selected_year_description">Selected Year</string>
     <string name="spinbutton_description" translatable="false">Spin Button</string>
     <string name="state_busy_description" translatable="false">busy</string>
     <string name="state_collapsed_description" translatable="false">collapsed</string>
@@ -1007,19 +859,8 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_description" translatable="false">Summary</string>
     <string name="tablist_description" translatable="false">Tab List</string>
-    <string name="time_tag">Time is</string>
     <string name="timer_description" translatable="false">Timer</string>
     <string name="toolbar_description" translatable="false">Tool Bar</string>
-    <string name="ucrop_crop">Crop</string>
-    <string name="ucrop_error_input_data_is_absent" translatable="false">Both input and output Uri must be specified</string>
-    <string name="ucrop_gif_tag">gif</string>
-    <string name="ucrop_label_edit_photo">Edit Photo</string>
-    <string name="ucrop_label_original">Original</string>
-    <string name="ucrop_menu_crop">Crop</string>
-    <string name="ucrop_mutate_exception_hint" translatable="false">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>
-    <string name="ucrop_rotate">Rotate</string>
-    <string name="ucrop_scale">Scale</string>
-    <string name="year_description">Select Year</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1417,7 +1258,6 @@
     <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
   </style>
     <style name="Base.Theme.MaterialComponents.Light.DialogWhenLarge" parent="Theme.MaterialComponents.Light"/>
-    <style name="Base.Theme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
     <style name="Base.ThemeOverlay.AppCompat" parent="Platform.ThemeOverlay.AppCompat"/>
     <style name="Base.ThemeOverlay.AppCompat.ActionBar">
         <item name="colorControlNormal">?android:attr/textColorPrimary</item>
@@ -1511,7 +1351,7 @@
     <item name="actionOverflowMenuStyle">@style/Widget.MaterialComponents.PopupMenu.Overflow</item>
 
     <!-- Widget styles -->
-    <item name="android:contextPopupMenuStyle" ns1:targetApi="n">
+    <item name="android:contextPopupMenuStyle" ns2:targetApi="n">
       @style/Widget.MaterialComponents.PopupMenu.ContextMenu
     </item>
     <item name="appBarLayoutStyle">@style/Widget.MaterialComponents.AppBarLayout.Surface</item>
@@ -1544,8 +1384,8 @@
     <item name="bottomSheetDialogTheme">@style/ThemeOverlay.MaterialComponents.BottomSheetDialog</item>
     <item name="alertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert</item>
     <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog</item>
-    <item name="android:datePickerDialogTheme" ns1:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
-    <item name="android:timePickerDialogTheme" ns1:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
+    <item name="android:datePickerDialogTheme" ns2:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
+    <item name="android:timePickerDialogTheme" ns2:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
 
     <!-- Type styles -->
     <item name="textAppearanceLargePopupMenu">?attr/textAppearanceSubtitle1</item>
@@ -1625,7 +1465,7 @@
     <item name="actionOverflowMenuStyle">@style/Widget.MaterialComponents.PopupMenu.Overflow</item>
 
     <!-- Widget styles -->
-    <item name="android:contextPopupMenuStyle" ns1:targetApi="n">
+    <item name="android:contextPopupMenuStyle" ns2:targetApi="n">
       @style/Widget.MaterialComponents.PopupMenu.ContextMenu
     </item>
     <item name="appBarLayoutStyle">@style/Widget.MaterialComponents.AppBarLayout.Surface</item>
@@ -1730,7 +1570,7 @@
     <item name="actionOverflowMenuStyle">@style/Widget.MaterialComponents.PopupMenu.Overflow</item>
 
     <!-- Widget styles -->
-    <item name="android:contextPopupMenuStyle" ns1:targetApi="n">
+    <item name="android:contextPopupMenuStyle" ns2:targetApi="n">
       @style/Widget.MaterialComponents.PopupMenu.ContextMenu
     </item>
     <item name="appBarLayoutStyle">@style/Widget.MaterialComponents.AppBarLayout.Primary</item>
@@ -1763,8 +1603,8 @@
     <item name="bottomSheetDialogTheme">@style/ThemeOverlay.MaterialComponents.Light.BottomSheetDialog</item>
     <item name="alertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert</item>
     <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog</item>
-    <item name="android:datePickerDialogTheme" ns1:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
-    <item name="android:timePickerDialogTheme" ns1:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
+    <item name="android:datePickerDialogTheme" ns2:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
+    <item name="android:timePickerDialogTheme" ns2:ignore="NewApi">@style/ThemeOverlay.MaterialComponents.Dialog</item>
 
     <!-- Type styles -->
     <item name="textAppearanceLargePopupMenu">?attr/textAppearanceSubtitle1</item>
@@ -1892,7 +1732,7 @@
     <item name="actionOverflowMenuStyle">@style/Widget.MaterialComponents.PopupMenu.Overflow</item>
 
     <!-- Widget styles -->
-    <item name="android:contextPopupMenuStyle" ns1:targetApi="n">
+    <item name="android:contextPopupMenuStyle" ns2:targetApi="n">
       @style/Widget.MaterialComponents.PopupMenu.ContextMenu
     </item>
     <item name="appBarLayoutStyle">@style/Widget.MaterialComponents.AppBarLayout.Primary</item>
@@ -1988,8 +1828,8 @@
     <style name="Base.V14.ThemeOverlay.MaterialComponents.MaterialAlertDialog" parent="ThemeOverlay.AppCompat.Dialog.Alert">
     <!-- Widget styles -->
     <item name="alertDialogStyle">@style/MaterialAlertDialog.MaterialComponents</item>
-    <item name="android:checkedTextViewStyle" ns1:ignore="NewApi">@style/Widget.MaterialComponents.CheckedTextView</item>
-    <item name="android:dialogCornerRadius" ns1:ignore="newApi">@null</item>
+    <item name="android:checkedTextViewStyle" ns2:ignore="NewApi">@style/Widget.MaterialComponents.CheckedTextView</item>
+    <item name="android:dialogCornerRadius" ns2:ignore="newApi">@null</item>
     <item name="buttonBarButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
     <item name="buttonBarPositiveButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
     <item name="buttonBarNegativeButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
@@ -2758,22 +2598,22 @@
   </style>
     <style name="Base.Widget.MaterialComponents.AutoCompleteTextView" parent="Widget.AppCompat.AutoCompleteTextView">
     <item name="android:background">@null</item>
-    <item name="android:paddingStart" ns1:ignore="NewApi">12dp</item>
-    <item name="android:paddingEnd" ns1:ignore="NewApi">12dp</item>
+    <item name="android:paddingStart" ns2:ignore="NewApi">12dp</item>
+    <item name="android:paddingEnd" ns2:ignore="NewApi">12dp</item>
     <item name="android:paddingLeft">12dp</item>
     <item name="android:paddingRight">12dp</item>
     <item name="android:paddingTop">16dp</item>
     <item name="android:paddingBottom">16dp</item>
     <item name="android:textAppearance">?attr/textAppearanceSubtitle1</item>
     <item name="android:dropDownVerticalOffset">@dimen/mtrl_exposed_dropdown_menu_popup_vertical_offset</item>
-    <item name="android:popupElevation" ns1:ignore="NewApi">@dimen/mtrl_exposed_dropdown_menu_popup_elevation</item>
+    <item name="android:popupElevation" ns2:ignore="NewApi">@dimen/mtrl_exposed_dropdown_menu_popup_elevation</item>
   </style>
     <style name="Base.Widget.MaterialComponents.CheckedTextView" parent="android:Widget"/>
     <style name="Base.Widget.MaterialComponents.Chip" parent="android:Widget">
     <item name="android:focusable">true</item>
     <item name="android:clickable">true</item>
     <item name="android:checkable">false</item>
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">
       @animator/mtrl_chip_state_list_anim
     </item>
 
@@ -2827,8 +2667,8 @@
   </style>
     <style name="Base.Widget.MaterialComponents.TextInputEditText" parent="Widget.AppCompat.EditText">
     <item name="android:background">@null</item>
-    <item name="android:paddingStart" ns1:ignore="NewApi">12dp</item>
-    <item name="android:paddingEnd" ns1:ignore="NewApi">12dp</item>
+    <item name="android:paddingStart" ns2:ignore="NewApi">12dp</item>
+    <item name="android:paddingEnd" ns2:ignore="NewApi">12dp</item>
     <item name="android:paddingLeft">12dp</item>
     <item name="android:paddingRight">12dp</item>
     <item name="android:paddingTop">16dp</item>
@@ -2869,10 +2709,10 @@
     <item name="shapeAppearanceOverlay">@null</item>
   </style>
     <style name="Base.Widget.MaterialComponents.TextView" parent="Widget.AppCompat.TextView"/>
-    <style name="CalendarDatePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
+    <style name="CalendarDatePickerDialog" ns2:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
         <item name="android:datePickerStyle">@style/CalendarDatePickerStyle</item>
     </style>
-    <style name="CalendarDatePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
+    <style name="CalendarDatePickerStyle" ns2:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
         <item name="android:datePickerMode">calendar</item>
     </style>
     <style name="CardView" parent="Base.CardView">
@@ -2883,10 +2723,10 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
-    <style name="ClockTimePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
+    <style name="ClockTimePickerDialog" ns2:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
       <item name="android:timePickerStyle">@style/ClockTimePickerStyle</item>
     </style>
-    <style name="ClockTimePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
+    <style name="ClockTimePickerStyle" ns2:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
       <item name="android:timePickerMode">clock</item>
     </style>
     <style name="DialogAnimationFade">
@@ -2926,7 +2766,7 @@
   </style>
     <style name="MaterialAlertDialog.MaterialComponents.Title.Icon" parent="Base.MaterialAlertDialog.MaterialComponents.Title.Icon">
     <item name="android:layout_gravity">start|center_vertical</item>
-    <item name="android:layout_marginEnd" ns1:ignore="NewApi">8dip</item>
+    <item name="android:layout_marginEnd" ns2:ignore="NewApi">8dip</item>
     <item name="android:layout_marginRight">8dip</item>
   </style>
     <style name="MaterialAlertDialog.MaterialComponents.Title.Icon.CenterStacked" parent="Base.MaterialAlertDialog.MaterialComponents.Title.Icon">
@@ -2940,61 +2780,12 @@
   </style>
     <style name="MaterialAlertDialog.MaterialComponents.Title.Text" parent="Base.MaterialAlertDialog.MaterialComponents.Title.Text">
     <item name="android:layout_gravity">start|center_vertical</item>
-    <item name="android:textAlignment" ns1:ignore="NewApi">viewStart</item>
+    <item name="android:textAlignment" ns2:ignore="NewApi">viewStart</item>
   </style>
     <style name="MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked" parent="Base.MaterialAlertDialog.MaterialComponents.Title.Text">
     <item name="android:layout_gravity">center</item>
-    <item name="android:textAlignment" ns1:ignore="NewApi">center</item>
+    <item name="android:textAlignment" ns2:ignore="NewApi">center</item>
   </style>
-    <style name="Picture.Theme.AlertDialog" parent="android:Theme.Dialog">
-        <item name="android:windowIsFloating">true</item>
-        <item name="android:windowIsTranslucent">false</item>
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowFullscreen">false</item>
-        <item name="android:windowBackground">@color/picture_color_transparent</item>
-        <item name="android:windowAnimationStyle">@null</item>
-        <item name="android:backgroundDimEnabled">false</item>
-        <item name="android:backgroundDimAmount">0.4</item>
-    </style>
-    <style name="Picture.Theme.Dialog" parent="@android:style/Theme.Dialog">
-
-        <!-- 边框 -->
-        <item name="android:windowFrame">@android:color/transparent</item>
-        <!-- 是否浮现在activity之上 -->
-        <item name="android:windowIsFloating">true</item>
-        <!-- 半透明 -->
-        <item name="android:windowIsTranslucent">false</item>
-        <!-- 无标题 -->
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
-        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
-
-        <!-- 自己想要的背景 -->
-        <item name="android:windowBackground">@android:color/transparent</item>
-    </style>
-    <style name="Picture.Theme.Dialog.AudioStyle">
-        <item name="android:windowEnterAnimation">@anim/picture_anim_enter</item>
-        <item name="android:windowExitAnimation">@anim/picture_anim_exit</item>
-    </style>
-    <style name="Picture.Theme.Translucent" parent="Base.Theme.NoActionBar">
-        <item name="android:windowBackground">@color/picture_color_transparent
-        </item> <!-- 背景色透明度 -->
-        <item name="android:windowNoTitle">true</item><!-- 无标题 -->
-        <item name="android:windowIsTranslucent">true</item><!-- 半透明,设置为false无透明效果 -->
-    </style>
-    <style mce_bogus="1" name="PictureThemeDialogFragmentAnim" parent="android:Animation">
-        <item name="android:windowEnterAnimation">@anim/picture_anim_up_in</item>
-        <item name="android:windowExitAnimation">@anim/picture_anim_down_out</item>
-    </style>
-    <style name="PictureThemeDialogWindowStyle">
-        <item name="android:windowEnterAnimation">@anim/picture_anim_modal_in</item>
-        <item name="android:windowExitAnimation">@anim/picture_anim_modal_out</item>
-    </style>
-    <style name="PictureThemeWindowStyle">
-        <item name="android:windowEnterAnimation">@anim/picture_anim_album_show</item>
-        <item name="android:windowExitAnimation">@anim/picture_anim_album_dismiss</item>
-    </style>
     <style name="Platform.AppCompat" parent="android:Theme.Holo">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
@@ -3276,16 +3067,16 @@
     <style name="ShapeAppearanceOverlay.TopRightDifferentCornerSize">
     <item name="cornerSizeTopRight">20px</item>
   </style>
-    <style name="SpinnerDatePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
+    <style name="SpinnerDatePickerDialog" ns2:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
         <item name="android:datePickerStyle">@style/SpinnerDatePickerStyle</item>
     </style>
-    <style name="SpinnerDatePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
+    <style name="SpinnerDatePickerStyle" ns2:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
         <item name="android:datePickerMode">spinner</item>
     </style>
-    <style name="SpinnerTimePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
+    <style name="SpinnerTimePickerDialog" ns2:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
       <item name="android:timePickerStyle">@style/SpinnerTimePickerStyle</item>
     </style>
-    <style name="SpinnerTimePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
+    <style name="SpinnerTimePickerStyle" ns2:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
       <item name="android:timePickerMode">spinner</item>
     </style>
     <style name="SplashScreen_Fullscreen" parent="SplashScreen_SplashTheme">
@@ -3789,7 +3580,7 @@
   </style>
     <style name="ThemeOverlay.MaterialComponents.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.Dialog">
     <item name="android:windowBackground">@android:color/transparent</item>
-    <item name="android:statusBarColor" ns1:targetApi="21">@android:color/transparent</item>
+    <item name="android:statusBarColor" ns2:targetApi="21">@android:color/transparent</item>
     <item name="android:windowAnimationStyle">
       @style/Animation.MaterialComponents.BottomSheetDialog
     </item>
@@ -3818,7 +3609,7 @@
   </style>
     <style name="ThemeOverlay.MaterialComponents.Light.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.Dialog">
     <item name="android:windowBackground">@android:color/transparent</item>
-    <item name="android:statusBarColor" ns1:targetApi="21">@android:color/transparent</item>
+    <item name="android:statusBarColor" ns2:targetApi="21">@android:color/transparent</item>
     <item name="android:windowAnimationStyle">
       @style/Animation.MaterialComponents.BottomSheetDialog
     </item>
@@ -3986,11 +3777,11 @@
     <style name="Widget.Compat.NotificationActionText" parent=""/>
     <style name="Widget.Design.AppBarLayout" parent="android:Widget">
     <item name="android:background">?attr/colorPrimary</item>
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">
       @animator/design_appbar_state_list_animator
     </item>
-    <item name="android:keyboardNavigationCluster" ns1:ignore="NewApi">true</item>
-    <item name="android:touchscreenBlocksFocus" ns1:ignore="NewApi">true</item>
+    <item name="android:keyboardNavigationCluster" ns2:ignore="NewApi">true</item>
+    <item name="android:touchscreenBlocksFocus" ns2:ignore="NewApi">true</item>
   </style>
     <style name="Widget.Design.BottomNavigationView" parent="">
     <item name="elevation">@dimen/design_bottom_navigation_elevation</item>
@@ -4004,7 +3795,7 @@
     <style name="Widget.Design.BottomSheet.Modal" parent="android:Widget">
     <item name="enforceMaterialTheme">false</item>
     <item name="android:background">?android:attr/colorBackground</item>
-    <item name="android:elevation" ns1:ignore="NewApi">
+    <item name="android:elevation" ns2:ignore="NewApi">
       @dimen/design_bottom_sheet_modal_elevation
     </item>
     <item name="behavior_peekHeight">auto</item>
@@ -4174,12 +3965,12 @@
     <item name="shapeAppearance">?attr/shapeAppearanceLargeComponent</item>
     <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.MaterialComponents.BottomSheet</item>
     <item name="backgroundTint">?attr/colorSurface</item>
-    <item name="android:elevation" ns1:ignore="NewApi">
+    <item name="android:elevation" ns2:ignore="NewApi">
       @dimen/design_bottom_sheet_elevation
     </item>
   </style>
     <style name="Widget.MaterialComponents.BottomSheet.Modal" parent="Widget.MaterialComponents.BottomSheet">
-    <item name="android:elevation" ns1:ignore="NewApi">
+    <item name="android:elevation" ns2:ignore="NewApi">
       @dimen/design_bottom_sheet_modal_elevation
     </item>
   </style>
@@ -4196,7 +3987,7 @@
     <item name="android:insetRight">0dp</item>
     <item name="android:insetTop">@dimen/mtrl_btn_inset</item>
     <item name="android:insetBottom">@dimen/mtrl_btn_inset</item>
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">@animator/mtrl_btn_state_list_anim</item>
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">@animator/mtrl_btn_state_list_anim</item>
     <item name="cornerRadius">@null</item>
     <item name="elevation">@dimen/mtrl_btn_elevation</item>
     <item name="iconPadding">@dimen/mtrl_btn_icon_padding</item>
@@ -4248,7 +4039,7 @@
     <item name="android:textColor">?attr/colorPrimary</item>
   </style>
     <style name="Widget.MaterialComponents.Button.UnelevatedButton">
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">@animator/mtrl_btn_unelevated_state_list_anim</item>
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">@animator/mtrl_btn_unelevated_state_list_anim</item>
     <item name="elevation">0dp</item>
   </style>
     <style name="Widget.MaterialComponents.Button.UnelevatedButton.Icon">
@@ -4257,7 +4048,7 @@
     <style name="Widget.MaterialComponents.CardView" parent="CardView">
     <item name="enforceMaterialTheme">true</item>
 
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">
       @animator/mtrl_card_state_list_anim
     </item>
     <item name="cardBackgroundColor">?attr/colorSurface</item>
@@ -4333,15 +4124,15 @@
     <item name="android:minWidth">@dimen/mtrl_extended_fab_min_width</item>
     <item name="android:paddingTop">@dimen/mtrl_extended_fab_top_padding</item>
     <item name="android:paddingBottom">@dimen/mtrl_extended_fab_bottom_padding</item>
-    <item name="android:paddingStart" ns1:ignore="NewApi">
+    <item name="android:paddingStart" ns2:ignore="NewApi">
       @dimen/mtrl_extended_fab_start_padding
     </item>
-    <item name="android:paddingEnd" ns1:ignore="NewApi">
+    <item name="android:paddingEnd" ns2:ignore="NewApi">
       @dimen/mtrl_extended_fab_end_padding
     </item>
     <item name="android:paddingLeft">@dimen/mtrl_extended_fab_start_padding</item>
     <item name="android:paddingRight">@dimen/mtrl_extended_fab_end_padding</item>
-    <item name="android:stateListAnimator" ns1:ignore="NewApi">
+    <item name="android:stateListAnimator" ns2:ignore="NewApi">
       @animator/mtrl_extended_fab_state_list_animator
     </item>
     <item name="android:textColor">@color/mtrl_extended_fab_text_color_selector</item>
@@ -4357,10 +4148,10 @@
   </style>
     <style name="Widget.MaterialComponents.ExtendedFloatingActionButton.Icon" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
     <item name="android:gravity">start|center_vertical</item>
-    <item name="android:paddingStart" ns1:ignore="NewApi">
+    <item name="android:paddingStart" ns2:ignore="NewApi">
       @dimen/mtrl_extended_fab_start_padding_icon
     </item>
-    <item name="android:paddingEnd" ns1:ignore="NewApi">
+    <item name="android:paddingEnd" ns2:ignore="NewApi">
       @dimen/mtrl_extended_fab_end_padding_icon
     </item>
     <item name="android:paddingLeft">@dimen/mtrl_extended_fab_start_padding_icon</item>
@@ -4637,7 +4428,7 @@
     <item name="maxButtonHeight">@dimen/mtrl_toolbar_default_height</item>
   </style>
     <style name="Widget.MaterialComponents.Toolbar.Primary">
-    <item name="android:elevation" ns1:ignore="NewApi">@dimen/design_appbar_elevation</item>
+    <item name="android:elevation" ns2:ignore="NewApi">@dimen/design_appbar_elevation</item>
     <item name="android:background">?attr/colorPrimary</item>
     <item name="titleTextColor">?attr/colorOnPrimary</item>
     <item name="subtitleTextColor">@color/material_on_primary_emphasis_medium</item>
@@ -4667,122 +4458,39 @@
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">bold</item>
     </style>
-    <style name="android_native">
-        <item name="android:layout_marginLeft">5dp</item>
-        <item name="android:layout_marginRight">5dp</item>
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:descendantFocusability">blocksDescendants</item>
+    <style name="mapbox_LocationComponent">
+    <item name="mapbox_foregroundDrawable">@drawable/mapbox_user_icon</item>
+    <item name="mapbox_backgroundDrawable">@drawable/mapbox_user_stroke_icon</item>
+    <item name="mapbox_bearingDrawable">@drawable/mapbox_user_bearing_icon</item>
+    <item name="mapbox_gpsDrawable">@drawable/mapbox_user_puck_icon</item>
 
-    </style>
-    <style name="android_native_small" parent="android_native">
-        <item name="android:layout_width">40dp</item>
-    </style>
-    <style name="android_native_theme">
-        <item name="android:textSize" ns1:ignore="SpUsage">17sp</item>
-    </style>
-    <style name="picture.WeChat.style" parent="Base.Theme.NoActionBar">
-        <!-- Customize your theme here. -->
-        <!--标题栏背景色-->
-        <item name="colorPrimary">@color/picture_color_grey</item>
-        <!--状态栏背景色-->
-        <item name="colorPrimaryDark">@color/picture_color_grey</item>
-        <!--是否改变图片列表界面状态栏字体颜色为黑色-->
-        <item name="picture.statusFontColor">false</item>
-        <!--返回键图标-->
-        <item name="picture.leftBack.icon">@drawable/picture_icon_close</item>
-        <!--标题下拉箭头-->
-        <item name="picture.arrow_down.icon">@drawable/picture_icon_wechat_down</item>
-        <!--标题上拉箭头-->
-        <item name="picture.arrow_up.icon">@drawable/picture_icon_wechat_up</item>
-        <!--标题文字颜色-->
-        <item name="picture.title.textColor">@color/picture_color_white</item>
-        <!--标题栏右边文字-->
-        <item name="picture.right.textColor">@color/picture_color_white</item>
-        <!--图片列表勾选样式-->
-        <item name="picture.checked.style">@drawable/picture_wechat_num_selector</item>
-        <!--开启图片列表勾选数字模式,开启的话勾选样式要换-->
-        <item name="picture.style.checkNumMode">true</item>
-        <!--选择图片样式0/9-->
-        <item name="picture.style.numComplete">false</item>
-        <!--图片列表底部背景色-->
-        <item name="picture.bottom.bg">@color/picture_color_grey</item>
-        <!--图片列表预览文字颜色-->
-        <item name="picture.preview.textColor">@color/picture_color_white</item>
-        <!--图片列表已完成文字颜色-->
-        <item name="picture.complete.textColor">@color/picture_color_white</item>
-        <!--图片已选数量圆点背景色-->
-        <item name="picture.num.style">@drawable/picture_num_oval</item>
-        <!--预览界面标题文字颜色-->
-        <item name="picture.ac_preview.title.textColor">@color/picture_color_white</item>
-        <!--预览界面已完成文字颜色-->
-        <item name="picture.ac_preview.complete.textColor">@color/picture_color_white</item>
-        <!--预览界面标题栏背景色-->
-        <item name="picture.ac_preview.title.bg">@color/picture_color_grey</item>
-        <!--预览界面底部背景色-->
-        <item name="picture.ac_preview.bottom.bg">@color/picture_color_grey</item>
-        <!--预览界面返回箭头-->
-        <item name="picture.preview.leftBack.icon">@drawable/picture_icon_back</item>
-        <!--裁剪页面标题背景色-->
-        <item name="picture.crop.toolbar.bg">@color/picture_color_grey</item>
-        <!--裁剪页面状态栏颜色-->
-        <item name="picture.crop.status.color">@color/picture_color_grey</item>
-        <!--裁剪页面标题文字颜色-->
-        <item name="picture.crop.title.color">@color/picture_color_white</item>
-        <!--相册文件夹列表选中图标-->
-        <item name="picture.folder_checked_dot">@drawable/picture_orange_oval</item>
-    </style>
-    <style name="picture.default.style" parent="Base.Theme.NoActionBar">
-        <!-- Customize your theme here. -->
-        <!--标题栏背景色-->
-        <item name="colorPrimary">@color/picture_color_grey</item>
-        <!--状态栏背景色-->
-        <item name="colorPrimaryDark">@color/picture_color_grey</item>
-        <!--是否改变图片列表界面状态栏字体颜色为黑色-->
-        <item name="picture.statusFontColor">false</item>
-        <!--返回键图标-->
-        <item name="picture.leftBack.icon">@drawable/picture_icon_back</item>
-        <!--标题下拉箭头-->
-        <item name="picture.arrow_down.icon">@drawable/picture_icon_arrow_down</item>
-        <!--标题上拉箭头-->
-        <item name="picture.arrow_up.icon">@drawable/picture_icon_arrow_up</item>
-        <!--标题文字颜色-->
-        <item name="picture.title.textColor">@color/picture_color_white</item>
-        <!--标题栏右边文字-->
-        <item name="picture.right.textColor">@color/picture_color_white</item>
-        <!--图片列表勾选样式-->
-        <item name="picture.checked.style">@drawable/picture_checkbox_selector</item>
-        <!--开启图片列表勾选数字模式-->
-        <item name="picture.style.checkNumMode">false</item>
-        <!--选择图片样式0/9-->
-        <item name="picture.style.numComplete">false</item>
-        <!--图片列表底部背景色-->
-        <item name="picture.bottom.bg">@color/picture_color_grey</item>
-        <!--图片列表预览文字颜色-->
-        <item name="picture.preview.textColor">@color/picture_list_text_color</item>
-        <!--图片列表已完成文字颜色-->
-        <item name="picture.complete.textColor">@color/picture_list_text_color</item>
-        <!--图片已选数量圆点背景色-->
-        <item name="picture.num.style">@drawable/picture_num_oval</item>
-        <!--预览界面标题文字颜色-->
-        <item name="picture.ac_preview.title.textColor">@color/picture_color_white</item>
-        <!--预览界面已完成文字颜色-->
-        <item name="picture.ac_preview.complete.textColor">@color/picture_list_text_color</item>
-        <!--预览界面标题栏背景色-->
-        <item name="picture.ac_preview.title.bg">@color/picture_color_grey</item>
-        <!--预览界面底部背景色-->
-        <item name="picture.ac_preview.bottom.bg">@color/picture_color_grey</item>
-        <!--预览界面返回箭头-->
-        <item name="picture.preview.leftBack.icon">@drawable/picture_icon_back</item>
-        <!--裁剪页面标题背景色-->
-        <item name="picture.crop.toolbar.bg">@color/picture_color_grey</item>
-        <!--裁剪页面状态栏颜色-->
-        <item name="picture.crop.status.color">@color/picture_color_grey</item>
-        <!--裁剪页面标题文字颜色-->
-        <item name="picture.crop.title.color">@color/picture_color_white</item>
-        <!--相册文件夹列表选中图标-->
-        <item name="picture.folder_checked_dot">@drawable/picture_orange_oval</item>
-    </style>
+    <item name="mapbox_foregroundDrawableStale">@drawable/mapbox_user_icon_stale</item>
+    <item name="mapbox_backgroundDrawableStale">@drawable/mapbox_user_stroke_icon</item>
+
+    <item name="mapbox_accuracyAlpha">0.15</item>
+    <item name="mapbox_accuracyColor">@color/mapbox_location_layer_blue</item>
+
+    <item name="mapbox_elevation">12dp</item>
+
+    <item name="mapbox_enableStaleState">true</item>
+    <item name="mapbox_staleStateTimeout">30000</item>
+
+    <!-- Location icon padding -->
+    <item name="mapbox_iconPaddingLeft">0</item>
+    <item name="mapbox_iconPaddingTop">0</item>
+    <item name="mapbox_iconPaddingRight">0</item>
+    <item name="mapbox_iconPaddingBottom">0</item>
+
+    <!-- Location icon scale based on map zoom levels -->
+    <item name="mapbox_maxZoomIconScale">1</item>
+    <item name="mapbox_minZoomIconScale">0.6</item>
+
+    <!-- Camera tracking settings -->
+    <item name="mapbox_trackingGesturesManagement">false</item>
+    <item name="mapbox_trackingInitialMoveThreshold">@dimen/mapbox_locationComponentTrackingInitialMoveThreshold</item>
+    <item name="mapbox_trackingMultiFingerMoveThreshold">@dimen/mapbox_locationComponentTrackingMultiFingerMoveThreshold</item>
+
+  </style>
     <style name="redboxButton">
     <item name="android:layout_width">0dp</item>
     <item name="android:layout_height">wrap_content</item>
@@ -4793,53 +4501,6 @@
     <item name="android:textColor">#dddddd</item>
     <item name="android:textSize">14sp</item>
   </style>
-    <style name="ucrop_ImageViewWidgetIcon">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_gravity">center</item>
-        <item name="android:scaleType">fitCenter</item>
-        <item name="android:duplicateParentState">true</item>
-    </style>
-    <style name="ucrop_TextViewCropAspectRatio">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">@dimen/ucrop_height_crop_aspect_ratio_text</item>
-        <item name="android:layout_gravity">center</item>
-        <item name="android:duplicateParentState">true</item>
-        <item name="android:textColor">@color/ucrop_scale_text_view_selector</item>
-    </style>
-    <style name="ucrop_TextViewWidget">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_centerHorizontal">true</item>
-        <item name="android:layout_marginTop">@dimen/ucrop_margin_top_controls_text</item>
-        <item name="android:textColor">@color/ucrop_color_widget_active</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textSize">@dimen/ucrop_text_size_controls_text</item>
-    </style>
-    <style name="ucrop_TextViewWidgetText">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_centerHorizontal">true</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/ucrop_color_widget_text</item>
-        <item name="android:layout_marginTop">@dimen/ucrop_margin_top_widget_text</item>
-        <item name="android:textSize">@dimen/ucrop_text_size_widget_text</item>
-    </style>
-    <style name="ucrop_WrapperIconState">
-        <item name="android:layout_width">0dp</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:layout_weight">1</item>
-        <item name="background">?attr/selectableItemBackground</item>
-        <item name="android:clickable">true</item>
-        <item name="android:gravity">center</item>
-        <item name="android:orientation">vertical</item>
-    </style>
-    <style name="ucrop_WrapperRotateButton">
-        <item name="android:layout_width">@dimen/ucrop_size_wrapper_rotate_button</item>
-        <item name="android:layout_height">@dimen/ucrop_size_wrapper_rotate_button</item>
-        <item name="background">?attr/selectableItemBackgroundBorderless</item>
-        <item name="android:clickable">true</item>
-    </style>
     <declare-styleable name="ActionBar">
         <!-- The type of navigation to use. -->
         <attr name="navigationMode">
@@ -5775,22 +5436,6 @@
              enough space to lay them out side-by-side. -->
         <attr format="boolean" name="allowStacking"/>
     </declare-styleable>
-    <declare-styleable name="CameraView"><attr format="enum" name="scaleType">
-            <enum name="centerCrop" value="0"/>
-            <enum name="centerInside" value="1"/>
-        </attr><attr format="enum" name="lensFacing">
-            <enum name="none" value="0"/>
-            <enum name="front" value="1"/>
-            <enum name="back" value="2"/>
-        </attr><attr format="enum" name="captureMode">
-            <enum name="image" value="0"/>
-            <enum name="video" value="1"/>
-            <enum name="mixed" value="2"/>
-        </attr><attr format="enum" name="flash">
-            <enum name="auto" value="1"/>
-            <enum name="on" value="2"/>
-            <enum name="off" value="4"/>
-        </attr><attr format="boolean" name="pinchToZoomEnabled"/></declare-styleable>
     <declare-styleable name="CardView">
         <!-- Background color for CardView. -->
         <attr format="color" name="cardBackgroundColor"/>
@@ -6613,32 +6258,6 @@
 
 <attr format="boolean" name="circleCrop"/>
 </declare-styleable>
-    <declare-styleable name="LottieAnimationView">
-        <attr format="string" name="lottie_fileName"/>
-        <attr format="reference" name="lottie_rawRes"/>
-        <attr format="string" name="lottie_url"/>
-        <attr format="reference" name="lottie_fallbackRes"/>
-        <attr format="boolean" name="lottie_autoPlay"/>
-        <attr format="boolean" name="lottie_loop"/>
-        <attr format="enum" name="lottie_repeatMode">
-            <enum name="restart" value="1"/>
-            <enum name="reverse" value="2"/>
-        </attr>
-        <attr format="integer" name="lottie_repeatCount"/>
-        <attr format="string" name="lottie_imageAssetsFolder"/>
-        <attr format="float" name="lottie_progress"/>
-        <attr format="boolean" name="lottie_enableMergePathsForKitKatAndAbove"/>
-        <attr format="color" name="lottie_colorFilter"/>
-        <attr format="float" name="lottie_scale"/>
-        <attr format="float" name="lottie_speed"/>
-        <attr format="boolean" name="lottie_cacheComposition"/>
-        <!-- These values must be kept in sync with the RenderMode enum -->
-        <attr format="enum" name="lottie_renderMode">
-            <enum name="automatic" value="0"/>
-            <enum name="hardware" value="1"/>
-            <enum name="software" value="2"/>
-        </attr>
-    </declare-styleable>
     <declare-styleable name="MapAttrs"><attr name="mapType">
 <enum name="none" value="0"/>
 
@@ -7093,52 +6712,6 @@
          itemShapeAppearance or itemShapeAppearanceOverlay. -->
     <attr format="color" name="itemShapeFillColor"/>
   </declare-styleable>
-    <declare-styleable name="NumberPickerView">
-        <!--set number of item displayed, default is 3-->
-        <attr format="reference|integer" name="npv_ShownCount"/>
-        <!--set if show divider, default is true-->
-        <attr format="reference|boolean" name="npv_ShowDivider"/>
-        <attr format="reference|color" name="npv_DividerColor"/>
-        <attr format="reference|dimension" name="npv_DividerMarginLeft"/>
-        <attr format="reference|dimension" name="npv_DividerMarginRight"/>
-        <attr format="reference|dimension" name="npv_DividerHeight"/>
-        <attr format="reference|color" name="npv_TextColorNormal"/>
-        <attr format="reference|color" name="npv_TextColorSelected"/>
-        <attr format="reference|color" name="npv_TextColorHint"/>
-        <attr format="reference|dimension" name="npv_TextSizeNormal"/>
-        <attr format="reference|dimension" name="npv_TextSizeSelected"/>
-        <attr format="reference|dimension" name="npv_TextSizeHint"/>
-        <attr format="reference" name="npv_TextArray"/>
-        <attr format="reference|integer" name="npv_MinValue"/>
-        <attr format="reference|integer" name="npv_MaxValue"/>
-        <attr format="reference|boolean" name="npv_WrapSelectorWheel"/>
-        <attr format="reference|boolean" name="npv_RespondChangeOnDetached"/>
-        <attr format="reference|string" name="npv_HintText"/>
-        <attr format="reference|string" name="npv_EmptyItemHint"/>
-        <attr format="reference|dimension" name="npv_MarginStartOfHint"/>
-        <attr format="reference|dimension" name="npv_MarginEndOfHint"/>
-        <attr format="reference|dimension" name="npv_ItemPaddingHorizontal"/>
-        <attr format="reference|dimension" name="npv_ItemPaddingVertical"/>
-        <attr format="reference|boolean" name="npv_RespondChangeInMainThread"/>
-        <attr format="reference|string" name="npv_TextEllipsize"/>
-
-        <!--just used to measure maxWidth for wrap_content without hint,
-            the string array will never be displayed.
-            you can set this attr if you want to keep the wraped numberpickerview
-            width unchanged when alter the content list-->
-        <attr format="reference" name="npv_AlternativeTextArrayWithMeasureHint"/>
-        <attr format="reference" name="npv_AlternativeTextArrayWithoutMeasureHint"/>
-        <!--the max length of hint content-->
-        <attr format="reference|string" name="npv_AlternativeHint"/>
-    </declare-styleable>
-    <declare-styleable name="PictureLongScaleImageView">
-        <attr format="reference" name="src"/>
-        <attr format="string" name="assetName"/>
-        <attr format="boolean" name="panEnabled"/>
-        <attr format="boolean" name="zoomEnabled"/>
-        <attr format="boolean" name="quickScaleEnabled"/>
-        <attr format="color" name="tileBackgroundColor"/>
-    </declare-styleable>
     <declare-styleable name="PopupWindow">
         <!-- Whether the popup window should overlap its anchor view. -->
         <attr format="boolean" name="overlapAnchor"/>
@@ -7148,12 +6721,6 @@
     <declare-styleable name="PopupWindowBackgroundState">
         <!-- State identifier indicating the popup will be above the anchor. -->
         <attr format="boolean" name="state_above_anchor"/>
-    </declare-styleable>
-    <declare-styleable name="PreviewView">
-        <attr format="enum" name="implementationMode">
-            <enum name="surfaceView" value="0"/>
-            <enum name="textureView" value="1"/>
-        </attr>
     </declare-styleable>
     <declare-styleable name="RecycleListView">
         <!-- Bottom padding to use when no buttons are present. -->
@@ -7988,35 +7555,191 @@
         <attr name="android:inflatedId"/>
         <attr name="android:id"/>
     </declare-styleable>
-    <declare-styleable name="scaleStyle"><attr name="scalableType"><enum name="none" value="0"/><enum name="fitXY" value="1"/><enum name="fitStart" value="2"/><enum name="fitCenter" value="3"/><enum name="fitEnd" value="4"/><enum name="leftTop" value="5"/><enum name="leftCenter" value="6"/><enum name="leftBottom" value="7"/><enum name="centerTop" value="8"/><enum name="center" value="9"/><enum name="centerBottom" value="10"/><enum name="rightTop" value="11"/><enum name="rightCenter" value="12"/><enum name="rightBottom" value="13"/><enum name="leftTopCrop" value="14"/><enum name="leftCenterCrop" value="15"/><enum name="leftBottomCrop" value="16"/><enum name="centerTopCrop" value="17"/><enum name="centerCrop" value="18"/><enum name="centerBottomCrop" value="19"/><enum name="rightTopCrop" value="20"/><enum name="rightCenterCrop" value="21"/><enum name="rightBottomCrop" value="22"/><enum name="startInside" value="23"/><enum name="centerInside" value="24"/><enum name="endInside" value="25"/></attr></declare-styleable>
-    <declare-styleable name="ucrop_AspectRatioTextView">
+    <declare-styleable name="mapbox_BubbleLayout">
+        <attr format="dimension|reference" name="mapbox_bl_arrowWidth"/>
+        <attr format="dimension|reference" name="mapbox_bl_cornersRadius"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowHeight"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowPosition"/>
+        <attr format="color|reference" name="mapbox_bl_bubbleColor"/>
+        <attr format="dimension|reference" name="mapbox_bl_strokeWidth"/>
+        <attr format="color|reference" name="mapbox_bl_strokeColor"/>
 
-        <attr format="string" name="ucrop_artv_ratio_title"/>
+        <attr format="enum" name="mapbox_bl_arrowDirection">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="mapbox_LocationComponent">
+        <attr format="reference" name="mapbox_foregroundDrawable"/>
+        <attr format="color" name="mapbox_foregroundTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawable"/>
+        <attr format="color" name="mapbox_backgroundTintColor"/>
+        <attr format="reference" name="mapbox_bearingDrawable"/>
+        <attr format="color" name="mapbox_bearingTintColor"/>
+        <attr format="reference" name="mapbox_gpsDrawable"/>
 
-        <attr format="float" name="ucrop_artv_ratio_x"/>
-        <attr format="float" name="ucrop_artv_ratio_y"/>
+        <attr format="reference" name="mapbox_foregroundDrawableStale"/>
+        <attr format="color" name="mapbox_foregroundStaleTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawableStale"/>
+        <attr format="color" name="mapbox_backgroundStaleTintColor"/>
+
+        <attr format="float" name="mapbox_accuracyAlpha"/>
+        <attr format="color" name="mapbox_accuracyColor"/>
+
+        <attr format="dimension" name="mapbox_elevation"/>
+
+        <!-- Stale state -->
+        <attr format="boolean" name="mapbox_enableStaleState"/>
+        <attr format="integer" min="0" name="mapbox_staleStateTimeout"/>
+
+        <!-- Location icon padding -->
+        <attr format="integer" name="mapbox_iconPaddingLeft"/>
+        <attr format="integer" name="mapbox_iconPaddingTop"/>
+        <attr format="integer" name="mapbox_iconPaddingRight"/>
+        <attr format="integer" name="mapbox_iconPaddingBottom"/>
+
+        <!-- Map layer configuration -->
+        <attr format="string" name="mapbox_layer_above"/>
+        <attr format="string" name="mapbox_layer_below"/>
+
+        <!-- Icon scale based on map zoom levels -->
+        <attr format="float" name="mapbox_maxZoomIconScale"/>
+        <attr format="float" name="mapbox_minZoomIconScale"/>
+
+        <!-- Camera tracking settings -->
+        <attr format="boolean" name="mapbox_trackingGesturesManagement"/>
+        <attr format="dimension" name="mapbox_trackingInitialMoveThreshold"/>
+        <attr format="dimension" name="mapbox_trackingMultiFingerMoveThreshold"/>
+
+        <!-- Animation duration multiplier -->
+        <attr format="float" name="mapbox_trackingAnimationDurationMultiplier"/>
+
+        <!-- Compass animation -->
+        <attr format="boolean" name="mapbox_compassAnimationEnabled"/>
+
+        <!-- Accuracy animation-->
+        <attr format="boolean" name="mapbox_accuracyAnimationEnabled"/>
 
     </declare-styleable>
-    <declare-styleable name="ucrop_UCropView">
+    <declare-styleable name="mapbox_MapView">
 
-        <!--Crop image view-->
-        <attr format="float" name="ucrop_aspect_ratio_x"/>
-        <attr format="float" name="ucrop_aspect_ratio_y"/>
+        <!--DEPRECATED use mapbox_apiBaseUri instead -->
+        <attr format="string" name="mapbox_apiBaseUrl"/>
 
-        <!--Overlay view-->
-        <attr format="boolean" name="ucrop_show_oval_crop_frame"/>
-        <attr format="boolean" name="ucrop_circle_dimmed_layer"/>
-        <attr format="color" name="ucrop_dimmed_color"/>
+        <!--Configuration-->
+        <attr format="string" name="mapbox_apiBaseUri"/>
+        <attr format="boolean" name="mapbox_localIdeographEnabled"/>
+        <attr format="string" name="mapbox_localIdeographFontFamily"/>
+        <attr format="reference" name="mapbox_localIdeographFontFamilies"/>
+        <attr format="boolean" name="mapbox_cross_source_collisions"/>
 
-        <attr format="dimension" name="ucrop_grid_stroke_size"/>
-        <attr format="color" name="ucrop_grid_color"/>
-        <attr format="integer" name="ucrop_grid_row_count"/>
-        <attr format="integer" name="ucrop_grid_column_count"/>
-        <attr format="boolean" name="ucrop_show_grid"/>
+        <!--Camera-->
+        <attr format="float" name="mapbox_cameraTargetLat"/>
+        <attr format="float" name="mapbox_cameraTargetLng"/>
+        <attr format="float" name="mapbox_cameraZoom"/>
+        <attr format="float" name="mapbox_cameraBearing"/>
+        <attr format="float" name="mapbox_cameraTilt"/>
 
-        <attr format="dimension" name="ucrop_frame_stroke_size"/>
-        <attr format="color" name="ucrop_frame_color"/>
-        <attr format="boolean" name="ucrop_show_frame"/>
+        <!--Zoom-->
+        <attr format="float" name="mapbox_cameraZoomMax"/>
+        <attr format="float" name="mapbox_cameraZoomMin"/>
+
+        <!--Pitch-->
+        <attr format="float" name="mapbox_cameraPitchMax"/>
+        <attr format="float" name="mapbox_cameraPitchMin"/>
+
+        <!--Gestures-->
+        <attr format="boolean" name="mapbox_uiZoomGestures"/>
+        <attr format="boolean" name="mapbox_uiScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiHorizontalScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiRotateGestures"/>
+        <attr format="boolean" name="mapbox_uiTiltGestures"/>
+        <attr format="boolean" name="mapbox_uiDoubleTapGestures"/>
+        <attr format="boolean" name="mapbox_uiQuickZoomGestures"/>
+
+        <!--Compass-->
+        <attr format="boolean" name="mapbox_uiCompass"/>
+        <attr name="mapbox_uiCompassGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiCompassMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginTop"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginRight"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginBottom"/>
+        <attr format="boolean" name="mapbox_uiCompassFadeFacingNorth"/>
+        <attr format="reference" name="mapbox_uiCompassDrawable"/>
+
+        <!--Logo-->
+        <attr format="boolean" name="mapbox_uiLogo"/>
+        <attr name="mapbox_uiLogoGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiLogoMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginTop"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginRight"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginBottom"/>
+
+        <!--Attribution-->
+        <attr format="boolean" name="mapbox_uiAttribution"/>
+        <attr name="mapbox_uiAttributionGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiAttributionMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginTop"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginRight"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginBottom"/>
+        <attr format="color" name="mapbox_uiAttributionTintColor"/>
+
+        <!-- Use TextureView-->
+        <attr format="boolean" name="mapbox_renderTextureMode"/>
+        <attr format="boolean" name="mapbox_renderTextureTranslucentSurface"/>
+        <attr format="color" name="mapbox_foregroundLoadColor"/>
+
+        <attr format="boolean" name="mapbox_enableTilePrefetch"/>
+        <attr format="integer" name="mapbox_prefetchZoomDelta"/>
+        <attr format="boolean" name="mapbox_enableZMediaOverlay"/>
+        <attr format="float" name="mapbox_pixelRatio"/>
 
     </declare-styleable>
 </resources>

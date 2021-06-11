@@ -1,8 +1,8 @@
-import { Typography, FontWeight, FontFamily } from './typography';
-import { BaseSetting } from './setting';
-import { Images } from './images';
-import { BaseStyle } from './styles';
-import { authAxios } from './axios'
+import {Typography, FontWeight, FontFamily} from './typography';
+import {BaseSetting} from './setting';
+import {Images} from './images';
+import {BaseStyle} from './styles';
+import {authAxios} from './axios'
 import {
   BaseColor,
   useTheme,
@@ -25,6 +25,5 @@ export {
   FontSupport,
   DefaultFont,
   ThemeSupport,
-  authAxios,
-
+  authAxios
 };

@@ -36,7 +36,7 @@ export default function ChangeLanguage({navigation}) {
   /**
    * Called when apply change language
    */
-  const saveLanguage = () => { 
+  const saveLanguage = ({item}) => { 
     if (!loading) {
       setLoading(true);
       const oldLanguage = i18n.language;
@@ -112,7 +112,7 @@ export default function ChangeLanguage({navigation}) {
             return (
               <TouchableOpacity
                 style={[styles.item, {borderBottomColor: colors.border}]}
-                onPress={() => onChange(item)}>
+                onPress={() => onChange(item)} >
                 <Text
                   body1
                   style={

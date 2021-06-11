@@ -6,7 +6,7 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { BaseStyle, Images, useTheme, authAxios } from "@config";
-import { Header, SafeAreaView, Icon, HotelItem, FilterSort } from "@components";
+import { Header, SafeAreaView, Icon, HotelItem} from "@components";
 import styles from "./styles";
 import * as Utils from "@utils";
 import { useTranslation } from "react-i18next";
@@ -43,13 +43,17 @@ export default function Hotel({ route, navigation }) {
 
     authAxios
       .get(
-        `tenant/60bf564c30d647001d320329/informations?filter[category]=${infoId}&limit=${offset}`
+        `tenant/60a6837c57b965001ed6ec2e/informations?filter[category]=${infoId}&limit=${offset}`
       )
 
       .then((json) => {
+        if(json.data.count==0){
+          navigation.replace("NoData")
+        }
         setOffset(offset + 6);
         setCat(json.data.rows);
         setCount(json.data.count);
+     
         setRefreshing(false);
       })
       .catch((error) => {
@@ -62,64 +66,70 @@ export default function Hotel({ route, navigation }) {
   }, []);
 
   const ItemView = ({ item }) => {
-    if (language === "fr") {
-      return (
-        <HotelItem
-          list
-          image={item.images[0]}
-          name={item.titleFR}
-          location={item.updatedAt}
-          description={item.descriptionFR}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
-    } else if (language === "en") {
-      return (
-        <HotelItem
-          list
-          image={item.images[0]}
-          name={item.titreEN}
-          location={item.updatedAt}
-          description={item.descriptionEN}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
-    } else if (language === "ar") {
-      return (
-        <HotelItem
-          list
-          image={item.images[0]}
-          name={item.titreAR}
-          location={item.updatedAt}
-          description={item.descriptionAR}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
+
+    switch (language) {
+      case "fr":
+        return (
+          <HotelItem
+            list
+            image={item.images[0]}
+            name={item.titleFR}
+            location={item.updatedAt}
+            description={item.descriptionFR}
+            style={{
+              paddingBottom: 10,
+            }}
+            onPress={() => {
+              /* 1. Navigate to the Details route with params */
+              navigation.navigate("HotelDetail", {
+                infoId: item._id,
+              });
+            }}
+          />
+        );
+        break;
+        case "en":
+          return (
+            <HotelItem
+              list
+              image={item.images[0]}
+              name={item.titreEN}
+              location={item.updatedAt}
+              description={item.descriptionEN}
+              style={{
+                paddingBottom: 10,
+              }}
+              onPress={() => {
+                /* 1. Navigate to the Details route with params */
+                navigation.navigate("HotelDetail", {
+                  infoId: item._id,
+                });
+              }}
+            />
+          );
+          break;
+          case "ar":
+            return (
+              <HotelItem
+                list
+                image={item.images[0]}
+                name={item.titreAR}
+                location={item.updatedAt}
+                description={item.descriptionAR}
+                style={{
+                  paddingBottom: 10,
+                }}
+                onPress={() => {
+                  /* 1. Navigate to the Details route with params */
+                  navigation.navigate("HotelDetail", {
+                    infoId: item._id,
+                  });
+                }}
+              />
+            );
+            break;
     }
+
   };
 
   const renderContent = () => {
@@ -157,7 +167,7 @@ export default function Hotel({ route, navigation }) {
             { useNativeDriver: true }
           )}
           data={information_category}
-
+ 
           key={"list"}
           keyExtractor={(item, index) => item.id}
           onEndReached={onRefresh}

@@ -12,12 +12,12 @@ function HotelItem(props) {
   const { block, style, image, name, location, onPress,description } = props;
   const no_image = image ? { uri: `${image.downloadUrl}` } : Images.image;
   const language = useSelector((state) => state.application.language);
-if(language === "fr" || language === "en"){
+   if(language === "fr" || language === "en"){
   var date =Moment(location).subtract(10, 'days').calendar()
-}
-else{ 
+   }
+   else{ 
   var date =Moment(location).format('YYYY-MM-DD')
-}
+   }
 
 
   const renderBlock = () => {
@@ -46,7 +46,6 @@ else{
               }}
               numberOfLines={1}
             > 
-            {/* {Moment(location).subtract(10, 'days').calendar()} */}
         
         {date}
             </Text>
@@ -65,7 +64,8 @@ else{
         <TouchableOpacity onPress={onPress} activeOpacity={0.9}>
      
             <Image
-              source={no_image}
+                 resizeMode={"cover"}
+                 source={no_image}
               style={styles.listImage}
             />
         
@@ -108,9 +108,6 @@ else{
     );
   };
 
-  /**
-   * Display hotel item as grid
-   */
  
 
  if (block) return renderBlock();
@@ -122,7 +119,6 @@ HotelItem.propTypes = {
   image: PropTypes.node.isRequired,
   list: PropTypes.bool,
   block: PropTypes.bool,
-
   name: PropTypes.string,
   location: PropTypes.string,
   description: PropTypes.string,
@@ -136,11 +132,9 @@ HotelItem.defaultProps = {
   image: "",
   list: true,
   block: false,
-  
   name: "",
   location: "",
   description:"",
-
   services: [],
   onPress: () => {},
   onPressTag: () => {},

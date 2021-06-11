@@ -19,7 +19,6 @@ export default function News({ navigation }) {
   const language = useSelector((state) => state.application.language);
 
   const onRefresh = useCallback(async () => {
-
     setRefreshing(true);
 
     await authAxios
@@ -28,7 +27,6 @@ export default function News({ navigation }) {
         setInformation(res.data.record);
 
         setRefreshing(false);
-
       })
       .catch((error) => {
         console.error(error);
@@ -39,65 +37,68 @@ export default function News({ navigation }) {
     onRefresh();
   }, []);
 
-
-
-
-
   const ItemView = ({ item }) => {
-    if (language === "fr") {
-      return (
-        <HotelItem
-          block
-          image={item.images[0]}
-          name={item.titleFR}
-          location={item.createdAt}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
-    } else if (language === "en") {
-      return (
-        <HotelItem
-          block
-          image={item.images[0]}
-          name={item.titreEN}
-          location={item.createdAt}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
-    } else if (language === "ar") {
-      return (
-        <HotelItem
-          block
-          image={item.images[0]}
-          name={item.titreAR}
-          location={item.createdAt}
-          style={{
-            paddingBottom: 10,
-          }}
-          onPress={() => {
-            /* 1. Navigate to the Details route with params */
-            navigation.navigate("HotelDetail", {
-              infoId: item._id,
-            });
-          }}
-        />
-      );
+    switch (language) {
+      case "fr":
+        return (
+          <HotelItem
+            block
+            image={item.images[0]}
+            name={item.titleFR}
+            location={item.updatedAt}
+            style={{
+              paddingBottom: 10,
+            }}
+            onPress={() => {
+              /* 1. Navigate to the Details route with params */
+              navigation.navigate("HotelDetail", {
+                infoId: item._id,
+              });
+            }}
+          />
+        );
+
+        break;
+
+      case "en":
+        return (
+          <HotelItem
+            block
+            image={item.images[0]}
+            name={item.titreEN}
+            location={item.updatedAt}
+            style={{
+              paddingBottom: 10,
+            }}
+            onPress={() => {
+              /* 1. Navigate to the Details route with params */
+              navigation.navigate("HotelDetail", {
+                infoId: item._id,
+              });
+            }}
+          />
+        );
+
+        break;
+      case "ar":
+        return (
+          <HotelItem
+            block
+            image={item.images[0]}
+            name={item.titreAR}
+            location={item.updatedAt}
+            style={{
+              paddingBottom: 10,
+            }}
+            onPress={() => {
+              /* 1. Navigate to the Details route with params */
+              navigation.navigate("HotelDetail", {
+                infoId: item._id,
+              });
+            }}
+          />
+        );
+        break;
     }
   };
 
@@ -153,13 +154,10 @@ export default function News({ navigation }) {
 
   return (
     <SafeAreaView style={BaseStyle.safeAreaView} forceInset={{ top: "always" }}>
-      <Header
-        title={t("MIGRIGHTS")}
-        subTitle=""
-
-      />
+      <Header   title={t("MIGRIGTHS")} />
       <View
         style={{
+      
           marginTop: 6,
           borderBottomColor: "lightgray",
           borderBottomWidth: 0.4,

@@ -19,7 +19,7 @@ import {
 } from "@components";
 import styles from "./styles";
 import { useTranslation } from "react-i18next";
-import { useSelector } from 'react-redux';
+import { useSelector } from "react-redux";
 
 export default function SearchHistory({ route, navigation }) {
   const { colors } = useTheme();
@@ -35,17 +35,20 @@ export default function SearchHistory({ route, navigation }) {
   const [filteredDataSource, setFilteredDataSource] = useState([]);
   const [masterDataSource, setMasterDataSource] = useState([]);
   const [loading, setLoading] = useState(false);
-  const language = useSelector(state => state.application.language);
+  const language = useSelector((state) => state.application.language);
 
   useEffect(() => {
     setLoading(true);
 
-    authAxios.get(`tenant/60bf564c30d647001d320329/informations?filter[category]=${infoId}`).then(json => {
-
-      setFilteredDataSource(json.data.rows);
-      setMasterDataSource(json.data.rows);
-      setLoading(false);
-    })
+    authAxios
+      .get(
+        `tenant/60a6837c57b965001ed6ec2e/informations?filter[category]=${infoId}`
+      )
+      .then((json) => {
+        setFilteredDataSource(json.data.rows);
+        setMasterDataSource(json.data.rows);
+        setLoading(false);
+      })
       .catch((error) => {
         console.error(error);
       });
@@ -58,35 +61,30 @@ export default function SearchHistory({ route, navigation }) {
       // Filter the masterDataSource
       // Update FilteredDataSource
 
-
       const newData = masterDataSource.filter(function (item) {
-
         if (language === "fr") {
-          const itemData = (item.titleFR + item.descriptionFR)
-            ? (item.titleFR.toUpperCase() + item.descriptionFR.toUpperCase())
-            : "".toUpperCase();
+          const itemData =
+            item.titleFR + item.descriptionFR
+              ? item.titleFR.toUpperCase() + item.descriptionFR.toUpperCase()
+              : "".toUpperCase();
+          const textData = text.toUpperCase();
+          return itemData.indexOf(textData) > -1;
+        } else if (language === "en") {
+          const itemData =
+            item.titreEN + item.descriptionEN
+              ? item.titreEN.toUpperCase() + item.descriptionEN.toUpperCase()
+              : "".toUpperCase();
+          const textData = text.toUpperCase();
+          return itemData.indexOf(textData) > -1;
+        } else if (language === "ar") {
+          const itemData =
+            item.titreAR + item.descriptionAR
+              ? item.titreAR.toUpperCase() + item.descriptionAR.toUpperCase()
+              : "".toUpperCase();
           const textData = text.toUpperCase();
           return itemData.indexOf(textData) > -1;
         }
-        else if (language === "en") {
-          const itemData = (item.titreEN + item.descriptionEN)
-            ? (item.titreEN.toUpperCase() + item.descriptionEN.toUpperCase())
-            : "".toUpperCase();
-          const textData = text.toUpperCase();
-          return itemData.indexOf(textData) > -1;
-        }
-        else if (language === "ar") {
-          const itemData = (item.titreAR + item.descriptionAR)
-            ? (item.titreAR.toUpperCase() + item.descriptionAR.toUpperCase())
-            : "".toUpperCase();
-          const textData = text.toUpperCase();
-          return itemData.indexOf(textData) > -1;
-        }
-
-
       });
-
-
 
       setFilteredDataSource(newData);
       setSearch(text);
@@ -99,8 +97,6 @@ export default function SearchHistory({ route, navigation }) {
   };
 
   const ItemView = ({ item }) => {
-
-
     if (language === "en") {
       return (
         <TouchableOpacity
@@ -116,10 +112,8 @@ export default function SearchHistory({ route, navigation }) {
             description={item.descriptionEN}
           ></SearchH>
         </TouchableOpacity>
-      )
-    }
-
-    else if (language === "fr") {
+      );
+    } else if (language === "fr") {
       return (
         <TouchableOpacity
           onPress={() => {
@@ -134,11 +128,8 @@ export default function SearchHistory({ route, navigation }) {
             description={item.descriptionFR}
           ></SearchH>
         </TouchableOpacity>
-      )
-    }
-
-
-    else if (language === "ar") {
+      );
+    } else if (language === "ar") {
       return (
         <TouchableOpacity
           onPress={() => {
@@ -153,13 +144,9 @@ export default function SearchHistory({ route, navigation }) {
             description={item.descriptionAR}
           ></SearchH>
         </TouchableOpacity>
-      )
+      );
     }
-
-
-
   };
-
 
   return (
     <SafeAreaView style={BaseStyle.safeAreaView} forceInset={{ top: "always" }}>

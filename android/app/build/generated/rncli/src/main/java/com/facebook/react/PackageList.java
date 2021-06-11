@@ -15,32 +15,22 @@ import java.util.ArrayList;
 import com.reactnativemedialibrary.MediaLibraryPackage;
 // @react-native-community/async-storage
 import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
-// @react-native-community/audio-toolkit
-import com.reactnativecommunity.rctaudiotoolkit.AudioPackage;
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
-// @react-native-community/picker
-import com.reactnativecommunity.picker.RNCPickerPackage;
-// @react-native-community/slider
-import com.reactnativecommunity.slider.ReactSliderPackage;
+// @react-native-community/netinfo
+import com.reactnativecommunity.netinfo.NetInfoPackage;
 // @react-native-community/viewpager
 import com.reactnativecommunity.viewpager.RNCViewPagerPackage;
-// lottie-react-native
-import com.airbnb.android.react.lottie.LottiePackage;
-// react-native-audio-recorder-player
-import com.dooboolab.RNAudioRecorderPlayerPackage;
+// @react-native-mapbox-gl/maps
+import com.mapbox.rctmgl.RCTMGLPackage;
+// react-native-config
+import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
 // react-native-dark-mode
 import com.codemotionapps.reactnativedarkmode.DarkModePackage;
-// react-native-date-picker
-import com.henninghall.date_picker.DatePickerPackage;
-// react-native-document-picker
-import io.github.elyx0.reactnativedocumentpicker.DocumentPickerPackage;
 // react-native-fast-image
 import com.dylanvann.fastimage.FastImageViewPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
-// react-native-image-picker
-import com.imagepicker.ImagePickerPackage;
 // react-native-maps
 import com.airbnb.android.react.maps.MapsPackage;
 // react-native-reanimated
@@ -55,14 +45,12 @@ import com.swmansion.rnscreens.RNScreensPackage;
 import com.azendoo.reactnativesnackbar.SnackbarPackage;
 // react-native-splash-screen
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
-// react-native-syan-image-picker
-import com.syanpicker.RNSyanImagePickerPackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
-// react-native-video
-import com.brentvatne.react.ReactVideoPackage;
 // react-native-webview
 import com.reactnativecommunity.webview.RNCWebViewPackage;
+// rn-fetch-blob
+import com.RNFetchBlob.RNFetchBlobPackage;
 // rn-range-slider
 import com.ashideas.rnrangeslider.RangeSliderPackage;
 
@@ -112,19 +100,14 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new MediaLibraryPackage(),
       new AsyncStoragePackage(),
-      new AudioPackage(),
       new RNCMaskedViewPackage(),
-      new RNCPickerPackage(),
-      new ReactSliderPackage(),
+      new NetInfoPackage(),
       new RNCViewPagerPackage(),
-      new LottiePackage(),
-      new RNAudioRecorderPlayerPackage(),
+      new RCTMGLPackage(),
+      new ReactNativeConfigPackage(),
       new DarkModePackage(),
-      new DatePickerPackage(),
-      new DocumentPickerPackage(),
       new FastImageViewPackage(),
       new RNGestureHandlerPackage(),
-      new ImagePickerPackage(),
       new MapsPackage(),
       new ReanimatedPackage(),
       new RestartPackage(),
@@ -132,10 +115,9 @@ public class PackageList {
       new RNScreensPackage(),
       new SnackbarPackage(),
       new SplashScreenReactPackage(),
-      new RNSyanImagePickerPackage(),
       new VectorIconsPackage(),
-      new ReactVideoPackage(),
       new RNCWebViewPackage(),
+      new RNFetchBlobPackage(),
       new RangeSliderPackage()
     ));
   }

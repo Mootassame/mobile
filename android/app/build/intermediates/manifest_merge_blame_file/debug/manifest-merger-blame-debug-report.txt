@@ -6,249 +6,189 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+8-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+9-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:4:22-64
-12    <uses-permission android:name="android.permission.CAMERA" />
-12-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:5:5-64
-12-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:5:22-62
+11-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:5:5-77
+12-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:5:22-75
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:6:5-79
-13-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:6:22-77
+13-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:6:5-79
+13-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:6:22-77
 14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:7:5-80
-14-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:7:22-78
-15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-15-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:8:5-70
-15-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:8:22-68
-16    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
-16-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:9:5-88
-16-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:9:22-85
-17    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-17-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:10:5-77
-17-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:10:22-75
-18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-18-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
-18-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:16:22-73
-19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
-19-->[:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
-19-->[:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
-20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
-21
-22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
-23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
-24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+14-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:7:4-80
+14-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:7:21-77
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.54.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/b1cf2e1d632226a57db1853d209db66f/flipper-0.54.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.54.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/b1cf2e1d632226a57db1853d209db66f/flipper-0.54.0/AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:react-native-community_netinfo] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+16-->[:react-native-community_netinfo] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->[:react-native-mapbox-gl_maps] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+17-->[:react-native-mapbox-gl_maps] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Required to access Google Play Licensing -->
+18-->[:react-native-maps] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+18-->[:react-native-maps] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+19    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+19-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+19-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+20    <!--
+21         Required to keep CPU alive while downloading files
+22        (NOT to keep screen awake)
+23    -->
+24    <uses-permission android:name="android.permission.WAKE_LOCK" />
+24-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+24-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-65
 25
-26    <application
-26-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:12:5-34:19
-27        android:name="com.felixpro.MainApplication"
-27-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:13:7-38
-28        android:allowBackup="false"
-28-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:16:7-34
-29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-29-->[androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:24:18-86
-30        android:debuggable="true"
-31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:15:7-41
-32        android:label="@string/app_name"
-32-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:14:7-39
-33        android:theme="@style/AppTheme"
-33-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:18:7-38
-34        android:usesCleartextTraffic="true" >
-34-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:17:7-42
-35        <meta-data
-35-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:19:7-21:64
-36            android:name="com.google.android.geo.API_KEY"
-36-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:20:7-52
-37            android:value="AIzaSyDvaS7W8iRIZTGJ6v5yePMWF4B2sCEVWqg" />
-37-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:21:7-62
-38
-39        <activity
-39-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:22:7-32:18
-40            android:name="com.felixpro.MainActivity"
-40-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:23:9-37
-41            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-41-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:25:9-86
-42            android:label="@string/app_name"
-42-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:24:9-41
-43            android:launchMode="singleTask"
-43-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:26:9-40
-44            android:windowSoftInputMode="adjustResize" >
-44-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:27:9-51
-45            <intent-filter>
-45-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:28:9-31:25
-46                <action android:name="android.intent.action.MAIN" />
-46-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:29:13-65
-46-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:29:21-62
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:30:13-73
-48-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:30:23-70
-49            </intent-filter>
-50        </activity>
-51        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-51-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:33:7-84
-51-->C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:33:17-81
-52
-53        <provider
-53-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
-54            android:name="com.imagepicker.ImagePickerProvider"
-54-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
-55            android:authorities="com.felixpro.imagepickerprovider"
-55-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
-56            android:exported="false"
-56-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
-57            android:grantUriPermissions="true" >
-57-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
-58            <meta-data
-58-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
-59                android:name="android.support.FILE_PROVIDER_PATHS"
-59-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
-60                android:resource="@xml/imagepicker_provider_paths" />
-60-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
-61        </provider>
-62        <provider
-62-->[:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
-63            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-63-->[:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
-64            android:authorities="com.felixpro.fileprovider"
-64-->[:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
-65            android:exported="false"
-65-->[:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
-66            android:grantUriPermissions="true" >
-66-->[:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
-67            <meta-data
-67-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
-68                android:name="android.support.FILE_PROVIDER_PATHS"
-68-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
-69                android:resource="@xml/file_provider_paths" />
-69-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
-70        </provider>
-71        <provider
-71-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:14:9-22:20
-72            android:name="com.luck.picture.lib.PictureFileProvider"
-72-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:15:13-68
-73            android:authorities="com.felixpro.provider"
-73-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:16:13-60
-74            android:exported="false"
-74-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:17:13-37
-75            android:grantUriPermissions="true" >
-75-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:18:13-47
-76            <meta-data
-76-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
-77                android:name="android.support.FILE_PROVIDER_PATHS"
-77-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
-78                android:resource="@xml/file_paths" />
-78-->[:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
-79        </provider>
-80
-81        <activity
-81-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:24:9-26:77
-82            android:name="com.luck.picture.lib.PictureSelectorActivity"
-82-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:25:13-72
-83            android:configChanges="orientation|keyboardHidden|screenSize" />
-83-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:26:13-74
-84        <activity
-84-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:27:9-29:77
-85            android:name="com.luck.picture.lib.PictureSelectorWeChatStyleActivity"
-85-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:28:13-83
-86            android:configChanges="orientation|keyboardHidden|screenSize" />
-86-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:29:13-74
-87        <activity
-87-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:30:9-33:64
-88            android:name="com.luck.picture.lib.PictureSelectorCameraEmptyActivity"
-88-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:31:13-83
-89            android:configChanges="orientation|keyboardHidden|screenSize"
-89-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:32:13-74
-90            android:theme="@style/Picture.Theme.Translucent" />
-90-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:33:13-61
-91        <activity
-91-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:34:9-36:77
-92            android:name="com.luck.picture.lib.PictureCustomCameraActivity"
-92-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:35:13-76
-93            android:configChanges="orientation|keyboardHidden|screenSize" />
-93-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:36:13-74
-94        <activity
-94-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:37:9-39:77
-95            android:name="com.luck.picture.lib.PicturePreviewActivity"
-95-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:38:13-71
-96            android:configChanges="orientation|keyboardHidden|screenSize" />
-96-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:39:13-74
-97        <activity
-97-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:40:9-42:77
-98            android:name="com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity"
-98-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:41:13-90
-99            android:configChanges="orientation|keyboardHidden|screenSize" />
-99-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:42:13-74
-100        <activity
-100-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:43:9-46:50
-101            android:name="com.luck.picture.lib.PictureVideoPlayActivity"
-101-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:44:13-73
-102            android:configChanges="orientation|keyboardHidden|screenSize"
-102-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:45:13-74
-103            android:screenOrientation="sensor" />
-103-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:46:13-47
-104        <activity
-104-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:47:9-49:77
-105            android:name="com.luck.picture.lib.PictureExternalPreviewActivity"
-105-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:48:13-79
-106            android:configChanges="orientation|keyboardHidden|screenSize" />
-106-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:49:13-74
-107        <activity
-107-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:50:9-52:77
-108            android:name="com.luck.picture.lib.PicturePlayAudioActivity"
-108-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:51:13-73
-109            android:configChanges="orientation|keyboardHidden|screenSize" />
-109-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:52:13-74
-110        <activity
-110-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:53:9-55:61
-111            android:name="com.yalantis.ucrop.UCropActivity"
-111-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:54:13-60
-112            android:theme="@style/Base.Theme.NoActionBar" />
-112-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:55:13-58
-113        <activity
-113-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:56:9-58:61
-114            android:name="com.yalantis.ucrop.PictureMultiCuttingActivity"
-114-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:57:13-74
-115            android:theme="@style/Base.Theme.NoActionBar" /> <!-- Needs to be explicitly declared on P+ -->
-115-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:58:13-58
-116        <uses-library
-116-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-117            android:name="org.apache.http.legacy"
-117-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-118            android:required="false" />
-118-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-119
-120        <activity
-120-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-121-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-122            android:exported="false"
-122-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-123-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-124
-125        <meta-data
-125-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
-126            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
-126-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
-127            android:value="GlideModule" />
-127-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
-128        <meta-data
-128-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-129            android:name="com.google.android.gms.version"
-129-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-130            android:value="@integer/google_play_services_version" />
-130-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-131    </application>
-132
-133</manifest>
+26    <uses-feature
+26-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+27        android:glEsVersion="0x00020000"
+27-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+28        android:required="true" />
+28-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+29    <uses-feature
+29-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+30        android:name="android.hardware.wifi"
+30-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+31        android:required="false" />
+31-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/734a9df3c1221e9f57b8f50d805793d7/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+32
+33    <application
+33-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:10:5-32:19
+34        android:name="com.felixpro.MainApplication"
+34-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:11:7-38
+35        android:allowBackup="false"
+35-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:14:7-34
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.3.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/ec2ca510f42b5c4cbc9ad8e3c730dd85/core-1.3.0/AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher"
+38-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:13:7-41
+39        android:label="@string/app_name"
+39-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:12:7-39
+40        android:theme="@style/AppTheme"
+40-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:16:7-38
+41        android:usesCleartextTraffic="true" >
+41-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:15:7-42
+42        <meta-data
+42-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:17:7-19:64
+43            android:name="com.google.android.geo.API_KEY"
+43-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:18:7-52
+44            android:value="AIzaSyDvaS7W8iRIZTGJ6v5yePMWF4B2sCEVWqg" />
+44-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:19:7-62
+45
+46        <activity
+46-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:20:7-30:18
+47            android:name="com.felixpro.MainActivity"
+47-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:21:9-37
+48            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+48-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:23:9-86
+49            android:label="@string/app_name"
+49-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:22:9-41
+50            android:launchMode="singleTask"
+50-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:24:9-40
+51            android:windowSoftInputMode="adjustResize" >
+51-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:25:9-51
+52            <intent-filter>
+52-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:26:9-29:25
+53                <action android:name="android.intent.action.MAIN" />
+53-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:27:13-65
+53-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:27:21-62
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:28:13-73
+55-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:28:23-70
+56            </intent-filter>
+57        </activity>
+58        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+58-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:31:7-84
+58-->/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/src/main/AndroidManifest.xml:31:17-81
+59
+60        <provider
+60-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+61            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+61-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+62            android:authorities="com.felixpro.fileprovider"
+62-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+63            android:exported="false"
+63-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+64            android:grantUriPermissions="true" >
+64-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+65            <meta-data
+65-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+67                android:resource="@xml/file_provider_paths" />
+67-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+68        </provider>
+69        <provider
+69-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+70            android:name="com.RNFetchBlob.Utils.FileProvider"
+70-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+71            android:authorities="com.felixpro.provider"
+71-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+72            android:exported="false"
+72-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+73            android:grantUriPermissions="true" >
+73-->[:rn-fetch-blob] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+74            <meta-data
+74-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+75                android:name="android.support.FILE_PROVIDER_PATHS"
+75-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+76                android:resource="@xml/provider_paths" />
+76-->[:react-native-webview] /home/mootassam/Desktop/Migriths/ftdes-migright-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+77        </provider> <!-- Needs to be explicitly declared on P+ -->
+78        <uses-library
+78-->[com.google.android.gms:play-services-maps:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+79            android:name="org.apache.http.legacy"
+79-->[com.google.android.gms:play-services-maps:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+80            android:required="false" />
+80-->[com.google.android.gms:play-services-maps:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/3302d5b9a2b6006726f814022b3f5ec7/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/3302d5b9a2b6006726f814022b3f5ec7/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/3302d5b9a2b6006726f814022b3f5ec7/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/3302d5b9a2b6006726f814022b3f5ec7/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+86
+87        <meta-data
+87-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/32a04650dcb9b15a8af7ab5a2550362f/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+88            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+88-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/32a04650dcb9b15a8af7ab5a2550362f/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+89            android:value="GlideModule" />
+89-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/32a04650dcb9b15a8af7ab5a2550362f/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+90        <meta-data
+90-->[com.google.android.gms:play-services-basement:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9e3e7c9bdc4a67f217e19fae85ac92f8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+91            android:name="com.google.android.gms.version"
+91-->[com.google.android.gms:play-services-basement:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9e3e7c9bdc4a67f217e19fae85ac92f8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+92            android:value="@integer/google_play_services_version" />
+92-->[com.google.android.gms:play-services-basement:17.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9e3e7c9bdc4a67f217e19fae85ac92f8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+93
+94        <provider
+94-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:18:9-22:39
+95            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+95-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:19:13-93
+96            android:authorities="com.felixpro.mapboxtelemetryinitprovider"
+96-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:20:13-79
+97            android:exported="false"
+97-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:21:13-37
+98            android:initOrder="100" />
+98-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:22:13-36
+99
+100        <service
+100-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:24:9-26:72
+101            android:name="com.mapbox.android.telemetry.crash.CrashReporterJobIntentService"
+101-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:25:13-92
+102            android:permission="android.permission.BIND_JOB_SERVICE" />
+102-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /home/mootassam/.gradle/caches/transforms-2/files-2.1/9170451bf2511660ec12958e6cebbbfe/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:26:13-69
+103    </application>
+104
+105</manifest>

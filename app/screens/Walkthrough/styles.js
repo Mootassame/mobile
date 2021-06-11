@@ -1,26 +1,43 @@
 import {StyleSheet} from 'react-native';
-import {BaseColor} from '@config';
+import * as Utils from '@utils';
 
 export default StyleSheet.create({
-  textInput: {
-    height: 46,
-    backgroundColor: BaseColor.fieldColor,
-    borderRadius: 5,
-    padding: 10,
-    width: '100%',
-    
-  },
   contain: {
-    flex: 1,
-    justifyContent:'center',
+    paddingHorizontal: 20,
+    paddingVertical: 20,
   },
-  item: {
-    paddingTop: 25,
-    paddingBottom: 25,
+  wrapper: {
+    width: '100%',
+    height: 350,
+  },
+  contentPage: {
+    bottom: 0,
+  },
+  contentActionBottom: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'center',
-
-    borderBottomWidth: 1,
+    marginTop: 25,
   },
+  img: {
+    width: Utils.scaleWithPixel(200),
+    height: Utils.scaleWithPixel(200),
+    borderRadius: Utils.scaleWithPixel(200) / 2,
+  },
+  slide: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    flex: 1,
+  },
+  textSlide: {
+    marginTop: 30,
+  },
+  image: {width: 32, height: 32, borderRadius: 16},
+
+
+  buttonTextStyle: {
+    color: '#fff',
+    marginBottom: 4,
+    marginLeft: 110,
+  },
+
 });

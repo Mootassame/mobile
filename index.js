@@ -1,6 +1,3 @@
-module.exports = {
-  presets: ['module:metro-react-native-babel-preset'],
-};
 /**
  * @format
  * @lint-ignore-every XPLATJSCOPYRIGHT1

@@ -11,8 +11,11 @@ import rootReducer from "app/reducers";
 const persistConfig = {
   key: "root",
   storage: AsyncStorage,
-  timeout: 100000
+  timeout: 10000
 };
+
+
+
 
 let middleware = [thunk];
 if (process.env.NODE_ENV === `development`) {
@@ -22,5 +25,10 @@ if (process.env.NODE_ENV === `development`) {
 const persistedReducer = persistReducer(persistConfig, rootReducer);
 const store = createStore(persistedReducer, applyMiddleware(...middleware));
 const persistor = persistStore(store);
+ 
+
+
+
+
 
 export { store, persistor };

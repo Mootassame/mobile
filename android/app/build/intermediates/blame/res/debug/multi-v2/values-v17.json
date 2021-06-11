@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\ae87da33e4c7cf704464bcee18890059\\appcompat-1.2.0\\res\\values-v17\\values-v17.xml",
+                    "source": "/home/mootassam/.gradle/caches/transforms-2/files-2.1/50c2f1e9e238f6f3402c8c40d454356e/appcompat-1.2.0/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

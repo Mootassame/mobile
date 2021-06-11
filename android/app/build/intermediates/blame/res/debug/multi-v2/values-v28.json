@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\ae87da33e4c7cf704464bcee18890059\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
+                    "source": "/home/mootassam/.gradle/caches/transforms-2/files-2.1/50c2f1e9e238f6f3402c8c40d454356e/appcompat-1.2.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\dca82fe9be39aabe3d0fc31ff419b31b\\material-1.1.0\\res\\values-v28\\values-v28.xml",
+                    "source": "/home/mootassam/.gradle/caches/transforms-2/files-2.1/6ff9aa3a504cc9b0d6634a1ac1c5c1fd/material-1.1.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

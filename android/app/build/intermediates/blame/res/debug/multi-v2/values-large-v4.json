@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "/home/mootassam/Desktop/Migriths/ftdes-migright-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\ae87da33e4c7cf704464bcee18890059\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,114,185,256,326,396,464,532,636",
-                        "endColumns": "58,70,70,69,69,67,67,103,115",
-                        "endOffsets": "109,180,251,321,391,459,527,631,747"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\dca82fe9be39aabe3d0fc31ff419b31b\\material-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "/home/mootassam/.gradle/caches/transforms-2/files-2.1/6ff9aa3a504cc9b0d6634a1ac1c5c1fd/material-1.1.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "752,874",
                         "endColumns": "121,133",
                         "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/home/mootassam/.gradle/caches/transforms-2/files-2.1/50c2f1e9e238f6f3402c8c40d454356e/appcompat-1.2.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
                     }
                 }
             ]
