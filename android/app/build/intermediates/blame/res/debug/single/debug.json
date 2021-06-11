@@ -1,0 +1,646 @@
+[
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel06.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel06.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruise2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruise2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_airlinesunitedstatesofamerica.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_airlinesunitedstatesofamerica.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_vi.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_vi.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile8.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_star.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_rocket.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_rocket.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_avata03.jpeg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_avata03.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_background_04.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_background_04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruisebranch2.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruisebranch2.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruise3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruise3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip6.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_heart.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel07.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel07.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_assets_images_8447loaderanimation.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_assets_images_8447loaderanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_lo.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_lo.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_ko.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_ko.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_da.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_da.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_fa.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_fa.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_fr.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_fr.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_id.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_id.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_avata02.jpeg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_avata02.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_airbnbstarselected.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_sound.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room6.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruise4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruise4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_ar.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_ar.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel08.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel08.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room9.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_ja.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_ja.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile6.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_support.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_support.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_airlinesemirates.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_airlinesemirates.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_bell.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_bell.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_car3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_car3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_avata01.jpeg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_avata01.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel02.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_blank.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room11.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruisebranch3.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruisebranch3.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruise1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruise1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_de.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_de.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel05.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel05.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_background_03.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_background_03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip8.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event7.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_he.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_he.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_car4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_car4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip9.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_banner1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_banner1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_image.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_en.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_en.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_opinions.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_opinions.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel03.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_background_01.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_background_01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_launch_screen.xml.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable\\bg_launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event6.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room8.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_banner2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_car5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_car5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_avata04.jpeg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_avata04.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile5.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_src_images_airbnbstar.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_src_images_airbnbstar.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_background_02.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_background_02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruisebranch1.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruisebranch1.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_car2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_car2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room2.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_slide.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_slide.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_cruisebranch4.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_cruisebranch4.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_km.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_km.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel01.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hotel04.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hotel04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room10.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip7.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_car1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_car1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_nl.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_nl.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio3.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_airlinessingapore.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_airlinessingapore.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_empty.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_room7.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_room7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile7.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_zh.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_zh.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_interio6.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_interio6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativeanimatedloader_src_loader.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativeanimatedloader_src_loader.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_focus.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_trip1.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_trip1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_event4.jpg.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_event4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_lang_el.json.flat",
+        "source": "C:\\Users\\Salma\\Documents\\GitHub\\ftdes-migright-mobile\\android\\app\\src\\main\\res\\raw\\app_lang_el.json"
+    }
+]

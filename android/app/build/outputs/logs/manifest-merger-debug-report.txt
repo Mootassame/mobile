@@ -1,0 +1,646 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [hermes-debug.aar] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d00a38a1143c8d1b39c8dc0f5aafd93c\jetified-hermes-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7355ceeabc9e16f9f2c4d8e663dcd771\jetified-flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fd93bc152377cf1c985417382e1f2f1\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-fast-image] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:pontusab_react-native-media-library] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@pontusab\react-native-media-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-community_async-storage] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_audio-toolkit] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\audio-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_viewpager] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-dark-mode] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-date-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-date-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-restart] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-snackbar] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-syan-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-syan-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-range-slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90c9b271a6ca32ad0f99b2c61af8de5f\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\689a8d529c63cfcf48ff01f00d941f54\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5a959cfb4f7eb2589622f3ae4cc30b19\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90a32b700d8b23567fea6ba0fd782846\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4f3ab8bcf11c4c62b7e40bbedbc5c766\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bb507c6e7a7f8b4c072afda596281eb7\jetified-lottie-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dca82fe9be39aabe3d0fc31ff419b31b\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:2:1-61:12
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\aa67c2c853a4e333134ec1bfd2436f7d\jetified-ucrop-2.5.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d559999472ee07062543d587559e7145\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae87da33e4c7cf704464bcee18890059\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60007d32d901acb60fca59b2abc75500\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\248f8e43cf5c4cefc8af1da378a094a1\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5d3eca64e90e65270bb0ad7d1ea02e80\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c9c0590fe2c0dc2df4541a9254f96dbc\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a024af868e85bed23326b11c05630e00\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4271ea02a359c4e7dc1a99a47484825a\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0ebccf157e418fd2492ead86976aa126\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\37f33effe5b0fe98630b16da9d346d4c\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\77f560c1b0e17c4c4710d964dc5fa696\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dec8c9fad6631245c787bd9556df86aa\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\619b39c130cb61addfd218a72099cef2\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a14bdff424925f1463791bd9ec59e2cf\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c1910643c9cb25fe0971f64e2bb246e8\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a0500c62ee828a7fd825d0d359bf86ee\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f3e14623b3a4215fb191065aa065a432\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\538392f5e6bef2d1b590f547a6539c4d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d83714b018bf21b652e3de12058bf68c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a069ac14b3ef5351fc0af42fa5a116cd\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4ca83743ac97208ba3800528c44f8e88\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\587bd357d323f6b5601d5eac959bb712\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6115b261070b601dcf17d7020a061735\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b8366b0d2bfd76b588d544a72df4dfcc\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60718bce679f178305ab33e86685e19a\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c32fed7e11414d6af363257f5c4c3718\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1a88899aa6d2f989a2afc3691619e57a\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2478696591ec8f543cb2f809ba078aa\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a847a368353c95b0a5a16426d8547953\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2b39842a50c15e579b366a32e9d8bed6\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\235bef011c2342e8be10ca7876feb4e3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ab4e0a8f9b29b66e8f4825c10c1b8c4a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\9014279ebedad69efc4da310b62c969a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\329f693ab473599e57b1e55bd167109b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\68f6c4f8b88f823bd2f0f36487268abc\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\664453344fed4c50e56ec989c5e37628\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f141b93fabf60e60bbb0fdce4d7750ea\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928980380b1d412e9b21311101feec6e\transition-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7c9ad05a9cd8d4b294d781b2bddf09b7\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a18a33ddf6f08dbd59a7817447575c13\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2c84fd98f45deb8a6bb31adef769106\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\96398b080c9c33799bda1299bbe61bc6\exifinterface-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a9d4d820ee155bc6e6b04c1c1cd4ef3a\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\92482c8b6d7ddec6829c1fe0fc0dd6e8\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2dea6c8181580f065e6f65c3e9052cc8\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0c1510299954c12ae7d11b04fe767f1f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1009db4f064276f8ea2a06fdc798b750\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fee575772cfff80eb4a2d3bf78ae048\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\887608c5344fa9dc3f0ed6ba7b6812c4\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b7d2d12646adfe790e68655451977eb2\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\989b3b223b0278adbb8ac18623fcd77a\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\3e52e96d624861ed57c1d2b9e7042d91\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0a5309da139f7b7f5fc70bbb9b7598f0\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928a1ba7b76558bac0d019922b19d2d4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\caadea176138f2380847c818ed7f83ff\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bd17ff08cd49b4500ce90af3421fd84a\jetified-NumberPickerView-1.1.5\AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.2-2018i] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\12fed6ed1aaff0e58cee05b97ae81cbf\jetified-time4j-android-4.2-2018i\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\19be751325d8cd294a8e6f5081780213\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\8594fc589a4792d1c496d083426ccaab\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d72443ce23f323cba65201f7303536a6\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\cc3e635c280d8dbf5e93652890ee20c2\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [:lottie-react-native] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:8:5-70
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-71
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:9:5-88
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:9:22-85
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:10:22-75
+application
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:12:5-34:19
+MERGED from [:react-native-dark-mode] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-dark-mode] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-splash-screen] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-syan-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-syan-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-11:19
+MERGED from [:react-native-syan-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-syan-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-11:19
+MERGED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90c9b271a6ca32ad0f99b2c61af8de5f\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90c9b271a6ca32ad0f99b2c61af8de5f\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bb507c6e7a7f8b4c072afda596281eb7\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bb507c6e7a7f8b4c072afda596281eb7\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dca82fe9be39aabe3d0fc31ff419b31b\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dca82fe9be39aabe3d0fc31ff419b31b\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:13:5-59:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:13:5-59:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f3e14623b3a4215fb191065aa065a432\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f3e14623b3a4215fb191065aa065a432\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a069ac14b3ef5351fc0af42fa5a116cd\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a069ac14b3ef5351fc0af42fa5a116cd\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4ca83743ac97208ba3800528c44f8e88\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4ca83743ac97208ba3800528c44f8e88\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\587bd357d323f6b5601d5eac959bb712\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\587bd357d323f6b5601d5eac959bb712\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6115b261070b601dcf17d7020a061735\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6115b261070b601dcf17d7020a061735\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a9d4d820ee155bc6e6b04c1c1cd4ef3a\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a9d4d820ee155bc6e6b04c1c1cd4ef3a\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\92482c8b6d7ddec6829c1fe0fc0dd6e8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\92482c8b6d7ddec6829c1fe0fc0dd6e8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [net.time4j:time4j-android:4.2-2018i] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\12fed6ed1aaff0e58cee05b97ae81cbf\jetified-time4j-android-4.2-2018i\AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.2-2018i] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\12fed6ed1aaff0e58cee05b97ae81cbf\jetified-time4j-android-4.2-2018i\AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:17:7-42
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:13:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:19:7-21:64
+	android:value
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:21:7-62
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:20:7-52
+activity#com.felixpro.MainActivity
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:22:7-32:18
+	android:label
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:launchMode
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:27:9-51
+	android:configChanges
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:25:9-86
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:30:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:33:7-84
+	android:name
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml:33:17-81
+uses-sdk
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [hermes-debug.aar] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d00a38a1143c8d1b39c8dc0f5aafd93c\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d00a38a1143c8d1b39c8dc0f5aafd93c\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7355ceeabc9e16f9f2c4d8e663dcd771\jetified-flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7355ceeabc9e16f9f2c4d8e663dcd771\jetified-flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fd93bc152377cf1c985417382e1f2f1\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fd93bc152377cf1c985417382e1f2f1\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-fast-image] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pontusab_react-native-media-library] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@pontusab\react-native-media-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:pontusab_react-native-media-library] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@pontusab\react-native-media-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-community_async-storage] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_audio-toolkit] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\audio-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_audio-toolkit] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\audio-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio-recorder-player] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-dark-mode] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-dark-mode] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-date-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-date-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-date-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-syan-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-syan-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-syan-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-syan-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-vector-icons] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90c9b271a6ca32ad0f99b2c61af8de5f\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90c9b271a6ca32ad0f99b2c61af8de5f\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\689a8d529c63cfcf48ff01f00d941f54\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\689a8d529c63cfcf48ff01f00d941f54\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5a959cfb4f7eb2589622f3ae4cc30b19\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5a959cfb4f7eb2589622f3ae4cc30b19\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90a32b700d8b23567fea6ba0fd782846\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\90a32b700d8b23567fea6ba0fd782846\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4f3ab8bcf11c4c62b7e40bbedbc5c766\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4f3ab8bcf11c4c62b7e40bbedbc5c766\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bb507c6e7a7f8b4c072afda596281eb7\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bb507c6e7a7f8b4c072afda596281eb7\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dca82fe9be39aabe3d0fc31ff419b31b\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dca82fe9be39aabe3d0fc31ff419b31b\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:8:5-11:173
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:8:5-11:173
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\aa67c2c853a4e333134ec1bfd2436f7d\jetified-ucrop-2.5.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\aa67c2c853a4e333134ec1bfd2436f7d\jetified-ucrop-2.5.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d559999472ee07062543d587559e7145\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d559999472ee07062543d587559e7145\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae87da33e4c7cf704464bcee18890059\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae87da33e4c7cf704464bcee18890059\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60007d32d901acb60fca59b2abc75500\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60007d32d901acb60fca59b2abc75500\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\248f8e43cf5c4cefc8af1da378a094a1\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\248f8e43cf5c4cefc8af1da378a094a1\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5d3eca64e90e65270bb0ad7d1ea02e80\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5d3eca64e90e65270bb0ad7d1ea02e80\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c9c0590fe2c0dc2df4541a9254f96dbc\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c9c0590fe2c0dc2df4541a9254f96dbc\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a024af868e85bed23326b11c05630e00\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a024af868e85bed23326b11c05630e00\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4271ea02a359c4e7dc1a99a47484825a\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4271ea02a359c4e7dc1a99a47484825a\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0ebccf157e418fd2492ead86976aa126\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0ebccf157e418fd2492ead86976aa126\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\37f33effe5b0fe98630b16da9d346d4c\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\37f33effe5b0fe98630b16da9d346d4c\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\77f560c1b0e17c4c4710d964dc5fa696\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\77f560c1b0e17c4c4710d964dc5fa696\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dec8c9fad6631245c787bd9556df86aa\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\dec8c9fad6631245c787bd9556df86aa\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\619b39c130cb61addfd218a72099cef2\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\619b39c130cb61addfd218a72099cef2\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a14bdff424925f1463791bd9ec59e2cf\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a14bdff424925f1463791bd9ec59e2cf\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c1910643c9cb25fe0971f64e2bb246e8\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c1910643c9cb25fe0971f64e2bb246e8\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a0500c62ee828a7fd825d0d359bf86ee\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a0500c62ee828a7fd825d0d359bf86ee\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f3e14623b3a4215fb191065aa065a432\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f3e14623b3a4215fb191065aa065a432\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\538392f5e6bef2d1b590f547a6539c4d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\538392f5e6bef2d1b590f547a6539c4d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d83714b018bf21b652e3de12058bf68c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d83714b018bf21b652e3de12058bf68c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a069ac14b3ef5351fc0af42fa5a116cd\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a069ac14b3ef5351fc0af42fa5a116cd\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4ca83743ac97208ba3800528c44f8e88\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\4ca83743ac97208ba3800528c44f8e88\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\587bd357d323f6b5601d5eac959bb712\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\587bd357d323f6b5601d5eac959bb712\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6115b261070b601dcf17d7020a061735\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6115b261070b601dcf17d7020a061735\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b8366b0d2bfd76b588d544a72df4dfcc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b8366b0d2bfd76b588d544a72df4dfcc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60718bce679f178305ab33e86685e19a\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\60718bce679f178305ab33e86685e19a\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c32fed7e11414d6af363257f5c4c3718\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\c32fed7e11414d6af363257f5c4c3718\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1a88899aa6d2f989a2afc3691619e57a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1a88899aa6d2f989a2afc3691619e57a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2478696591ec8f543cb2f809ba078aa\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2478696591ec8f543cb2f809ba078aa\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a847a368353c95b0a5a16426d8547953\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a847a368353c95b0a5a16426d8547953\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2b39842a50c15e579b366a32e9d8bed6\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2b39842a50c15e579b366a32e9d8bed6\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\235bef011c2342e8be10ca7876feb4e3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\235bef011c2342e8be10ca7876feb4e3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ab4e0a8f9b29b66e8f4825c10c1b8c4a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ab4e0a8f9b29b66e8f4825c10c1b8c4a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\9014279ebedad69efc4da310b62c969a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\9014279ebedad69efc4da310b62c969a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\329f693ab473599e57b1e55bd167109b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\329f693ab473599e57b1e55bd167109b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\68f6c4f8b88f823bd2f0f36487268abc\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\68f6c4f8b88f823bd2f0f36487268abc\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\664453344fed4c50e56ec989c5e37628\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\664453344fed4c50e56ec989c5e37628\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f141b93fabf60e60bbb0fdce4d7750ea\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f141b93fabf60e60bbb0fdce4d7750ea\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928980380b1d412e9b21311101feec6e\transition-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928980380b1d412e9b21311101feec6e\transition-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7c9ad05a9cd8d4b294d781b2bddf09b7\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\7c9ad05a9cd8d4b294d781b2bddf09b7\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ef3a91a67638b57be6736cbc65f7ddce\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a18a33ddf6f08dbd59a7817447575c13\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a18a33ddf6f08dbd59a7817447575c13\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2c84fd98f45deb8a6bb31adef769106\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f2c84fd98f45deb8a6bb31adef769106\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\96398b080c9c33799bda1299bbe61bc6\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\96398b080c9c33799bda1299bbe61bc6\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a9d4d820ee155bc6e6b04c1c1cd4ef3a\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\a9d4d820ee155bc6e6b04c1c1cd4ef3a\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\92482c8b6d7ddec6829c1fe0fc0dd6e8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\92482c8b6d7ddec6829c1fe0fc0dd6e8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2dea6c8181580f065e6f65c3e9052cc8\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2dea6c8181580f065e6f65c3e9052cc8\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0c1510299954c12ae7d11b04fe767f1f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0c1510299954c12ae7d11b04fe767f1f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1009db4f064276f8ea2a06fdc798b750\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\1009db4f064276f8ea2a06fdc798b750\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fee575772cfff80eb4a2d3bf78ae048\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\6fee575772cfff80eb4a2d3bf78ae048\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\887608c5344fa9dc3f0ed6ba7b6812c4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\887608c5344fa9dc3f0ed6ba7b6812c4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b7d2d12646adfe790e68655451977eb2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\b7d2d12646adfe790e68655451977eb2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\989b3b223b0278adbb8ac18623fcd77a\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\989b3b223b0278adbb8ac18623fcd77a\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\3e52e96d624861ed57c1d2b9e7042d91\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\3e52e96d624861ed57c1d2b9e7042d91\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0a5309da139f7b7f5fc70bbb9b7598f0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\0a5309da139f7b7f5fc70bbb9b7598f0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928a1ba7b76558bac0d019922b19d2d4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\928a1ba7b76558bac0d019922b19d2d4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\caadea176138f2380847c818ed7f83ff\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\caadea176138f2380847c818ed7f83ff\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bd17ff08cd49b4500ce90af3421fd84a\jetified-NumberPickerView-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\bd17ff08cd49b4500ce90af3421fd84a\jetified-NumberPickerView-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\12fed6ed1aaff0e58cee05b97ae81cbf\jetified-time4j-android-4.2-2018i\AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\12fed6ed1aaff0e58cee05b97ae81cbf\jetified-time4j-android-4.2-2018i\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\19be751325d8cd294a8e6f5081780213\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\19be751325d8cd294a8e6f5081780213\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\8594fc589a4792d1c496d083426ccaab\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\8594fc589a4792d1c496d083426ccaab\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d72443ce23f323cba65201f7303536a6\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\d72443ce23f323cba65201f7303536a6\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\cc3e635c280d8dbf5e93652890ee20c2\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\cc3e635c280d8dbf5e93652890ee20c2\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:11:9-170
+	android:targetSdkVersion
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\18c72f8cee394a3f7eb4298da48256c7\jetified-flipper-0.54.0\AndroidManifest.xml:16:22-73
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\Salma\Documents\GitHub\ftdes-migright-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+provider#com.luck.picture.lib.PictureFileProvider
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:16:13-60
+	android:exported
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:15:13-68
+activity#com.luck.picture.lib.PictureSelectorActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:24:9-26:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:25:13-72
+activity#com.luck.picture.lib.PictureSelectorWeChatStyleActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:27:9-29:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:28:13-83
+activity#com.luck.picture.lib.PictureSelectorCameraEmptyActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:30:9-33:64
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:31:13-83
+activity#com.luck.picture.lib.PictureCustomCameraActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:34:9-36:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:35:13-76
+activity#com.luck.picture.lib.PicturePreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:37:9-39:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:38:13-71
+activity#com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:40:9-42:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:41:13-90
+activity#com.luck.picture.lib.PictureVideoPlayActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:43:9-46:50
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:46:13-47
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:44:13-73
+activity#com.luck.picture.lib.PictureExternalPreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:47:9-49:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:48:13-79
+activity#com.luck.picture.lib.PicturePlayAudioActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:50:9-52:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:51:13-73
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:53:9-55:61
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:55:13-58
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:54:13-60
+activity#com.yalantis.ucrop.PictureMultiCuttingActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:56:9-58:61
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:58:13-58
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\5f82a3e56b8c7999a4da64a31e514560\jetified-picture_library-2.5.6\AndroidManifest.xml:57:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\504d0a11578aed38a4b496193d854262\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\e2a41474f4d1951bdc96edba3fdb6502\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\f31e323648e4fc6db08c64fea230c25f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\ae3b589e6d412bc183fe656a12e07dce\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Salma\.gradle\caches\transforms-2\files-2.1\2270c0f78bfa52d9dfe9c62d788a577b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
